@@ -1,0 +1,131 @@
+from telnetlib import Telnet
+import re, socket, subprocess, time, random, sys
+from contextlib import contextmanager
+
+WT = 0.01
+TIMESTAMP = 0
+pr, pw, ps = [], [], []
+
+LIST_DATA = r"""Food: \d+ booked
+Concert: \d+ booked
+Electronics: \d+ booked
+"""
+PROMPT_CMD = r"""
+Please input your booking command\. \(Food, Concert, Electronics\. Positive/negative value increases/decreases the booking amount\.\):
+"""
+PROMPT_EXIT = r"""
+\(Type Exit to leave\.\.\.\)
+"""
+CMD_OK = r"""Bookings for user {id} are updated, the new booking state is:
+"""
+def prt(x):
+    print(x)
+    return x
+def must(a, b, c='mismatch'):
+    if a == b: return
+    print(f'{a} !=!=!=!= {b}')
+    raise Exception(c)
+def must_match(a, b, c='mismatch'):
+    if re.fullmatch(a, b): return
+    print(f'{a} !=!=!=!= {b}')
+    raise Exception(c)
+def start_server(n_r, n_w, default_port=3000):
+    def in_use(port):
+        with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
+            return s.connect_ex(("localhost", port)) == 0;
+    def find_empty_port(start):
+        for i in range(start, 65536):
+            if not in_use(i):
+                return i
+    ps = []
+    pr = []
+    pw = []
+    for _ in range(n_r):
+        p = find_empty_port(start=default_port)
+        ps.append(subprocess.Popen(['./read_server',  str(p)], stderr=subprocess.DEVNULL, stdout=subprocess.DEVNULL))
+        pr.append(p)
+        time.sleep(0.2)
+    for _ in range(n_w):
+        p = find_empty_port(start=default_port)
+        ps.append(subprocess.Popen(['./write_server',  str(p)], stderr=subprocess.DEVNULL, stdout=subprocess.DEVNULL))
+        pw.append(p)
+        time.sleep(0.2)
+    return pr, pw, ps
+def STEP(f):
+    global TIMESTAMP
+    def ret(*a, **b):
+        global TIMESTAMP
+        a[0].hey()
+        TIMESTAMP += 1
+        return f(*a, **b)
+    return ret
+class Client:
+    con = False
+    def __init__(self, id, port, tpe, cliID):
+        if isinstance(port, list):
+            self.port = port[random.randint(0, len(port)-1)]
+        else:
+            self.port = port
+        self.id = id
+        self.next = self.START
+        self.cliID = cliID
+        self.tpe = tpe
+    def hey(self):
+        global TIMESTAMP
+        print(f"=================== cli = {self.cliID}, id = {self.id}, step = {TIMESTAMP} type = {self.tpe} ===================")
+    def read(self):
+        s = self.con.read_until(b"\0", timeout=WT).decode()
+        print('>> ' + s.replace('\n', '\n>> '))
+        return s
+    def write(self, s):
+        print('<< ' + str(s).replace('\n', '\n<< '))
+        self.con.write(str(s).encode())
+    def writeln(self, s):
+        self.write(str(s) + '\r\n')
+    def ended(self):
+        try:
+            self.con.read_until(b"\0", timeout=0.2)
+        except EOFError:
+            return True
+        else:
+            return False
+    def close(self):
+        if self.con: self.con.close()
+    def __del__(self):
+        self.close()
+    def step(self):
+        return self.next()
+    @STEP
+    def START(self):
+        self.con = Telnet(host="localhost", port=self.port)
+        must(self.read(), 'Please enter your id (to check your booking state):\n', 'START_ERROR')
+        self.next = self.ENTER_ID
+        return False
+    @STEP
+    def ENTER_ID(self):
+        self.writeln(self.id)
+        s = self.read()
+        if re.fullmatch(LIST_DATA + PROMPT_EXIT, s):
+            self.next = self.EXIT
+        elif re.fullmatch(LIST_DATA + PROMPT_CMD, s):
+            self.next = self.CMD
+        elif s == 'Locked.\n':
+            assert self.ended()
+            return True
+        else:
+            assert False, 'ENTER_ID_ERROR'
+    @STEP
+    def EXIT(self):
+        self.writeln('Exit')
+        assert self.ended()
+        return True
+    @STEP
+    def CMD(self):
+        self.writeln('0 0 0')
+        must_match(CMD_OK.format(id=self.id) + LIST_DATA, self.read(), 'CMD_ERROR')
+        assert self.ended()
+        return True
+def clean(ps):
+    for i in ps:
+        i.kill()
+        i.wait()
