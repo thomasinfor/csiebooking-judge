@@ -1,10 +1,18 @@
 from telnetlib import Telnet
 import re, socket, subprocess, time, random, sys
 from contextlib import contextmanager
+from argparse import ArgumentParser
 
-WT = 0.01
+parser = ArgumentParser()
+parser.add_argument("-t", help="wait response time", default=0.01, dest="wt", type=float)
+parser.add_argument("-rp", help="existing read server ports", default=None, dest="rp", nargs="+")
+parser.add_argument("-wp", help="existing write server ports", default=None, dest="wp", nargs="+")
+parser.add_argument("-s", help="random seed", default=7122, dest="seed", type=int)
+args = parser.parse_args()
+
+WT = args.wt
 TIMESTAMP = 0
-pr, pw, ps = [], [], []
+random.seed(args.seed)
 
 LIST_DATA = r"""Food: \d+ booked
 Concert: \d+ booked
@@ -37,9 +45,7 @@ def start_server(n_r, n_w, default_port=3000):
         for i in range(start, 65536):
             if not in_use(i):
                 return i
-    ps = []
-    pr = []
-    pw = []
+    ps, pr, pw = [], [], []
     for _ in range(n_r):
         p = find_empty_port(start=default_port)
         ps.append(subprocess.Popen(['./read_server',  str(p)], stderr=subprocess.DEVNULL, stdout=subprocess.DEVNULL))

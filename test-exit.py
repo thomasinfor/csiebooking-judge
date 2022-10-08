@@ -5,11 +5,11 @@ ps = []
 try:
     pr, pw, ps = args.rp, args.wp, []
     if pw == None and pw == None:
-        pr, pw, ps = start_server(5, 5)
+        pr, pw, ps = start_server()
     print(f'ports: r={pr}, w={pw}', file=sys.stderr)
 
     clis = []
-    for i in range(500):
+    for i in range(50):
         if random.randint(0, 1):
             clis.append(Client(
                 id=random.randint(902001, 902020),
