@@ -1,14 +1,16 @@
 from telnetlib import Telnet
-import re, socket, subprocess, time, random, sys
+import re, socket, subprocess, time, random, sys, os
 from contextlib import contextmanager
 from argparse import ArgumentParser
 
 parser = ArgumentParser()
 parser.add_argument("-t", help="wait response time", default=0.01, dest="wt", type=float)
-parser.add_argument("-rp", help="existing read server ports", default=None, dest="rp", nargs="+")
-parser.add_argument("-wp", help="existing write server ports", default=None, dest="wp", nargs="+")
+parser.add_argument("-r", help="existing read server ports", default=None, dest="rp", nargs="+")
+parser.add_argument("-w", help="existing write server ports", default=None, dest="wp", nargs="+")
 parser.add_argument("-s", help="random seed", default=7122, dest="seed", type=int)
+parser.add_argument("-d", help="server file directory", default='.', dest="dir")
 args = parser.parse_args()
+if args.dir: os.chdir(args.dir)
 
 WT = args.wt
 TIMESTAMP = 0

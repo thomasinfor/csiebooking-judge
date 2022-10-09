@@ -1,0 +1,4877 @@
+=================== cli = 144, id = 902017, step = 0 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 250, id = 902019, step = 1 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 151, id = 902014, step = 2 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 35, id = 902001, step = 3 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 396, id = 902017, step = 4 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 296, id = 902001, step = 5 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 116, id = 902018, step = 6 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 448, id = 902016, step = 7 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 84, id = 902006, step = 8 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 68, id = 902006, step = 9 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 153, id = 902018, step = 10 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 324, id = 902005, step = 11 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 54, id = 902011, step = 12 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 309, id = 902010, step = 13 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 373, id = 902009, step = 14 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 54, id = 902011, step = 15 type = RD ===================
+<< 902011
+<< 
+>> Food: 2 booked
+>> Concert: 3 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 29, id = 902001, step = 16 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 479, id = 902009, step = 17 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 284, id = 902015, step = 18 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 229, id = 902009, step = 19 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 83, id = 902013, step = 20 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 325, id = 902014, step = 21 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 97, id = 902007, step = 22 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 334, id = 902010, step = 23 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 457, id = 902001, step = 24 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 278, id = 902017, step = 25 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 174, id = 902015, step = 26 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 223, id = 902004, step = 27 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 419, id = 902008, step = 28 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 476, id = 902020, step = 29 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 297, id = 902019, step = 30 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 206, id = 902014, step = 31 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 349, id = 902013, step = 32 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 362, id = 902011, step = 33 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 222, id = 902002, step = 34 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 35, id = 902001, step = 35 type = RD ===================
+<< 902001
+<< 
+>> Food: 3 booked
+>> Concert: 0 booked
+>> Electronics: 3 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 374, id = 902007, step = 36 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 32, id = 902010, step = 37 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 2, id = 902005, step = 38 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 38, id = 902016, step = 39 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 384, id = 902018, step = 40 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 296, id = 902001, step = 41 type = WR ===================
+<< Ctrl+C
+=================== cli = 60, id = 902014, step = 42 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 337, id = 902011, step = 43 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 188, id = 902019, step = 44 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 293, id = 902007, step = 45 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 298, id = 902002, step = 46 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 105, id = 902008, step = 47 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 257, id = 902016, step = 48 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 50, id = 902019, step = 49 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 271, id = 902005, step = 50 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 333, id = 902017, step = 51 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 324, id = 902005, step = 52 type = WR ===================
+<< Ctrl+C
+=================== cli = 333, id = 902017, step = 53 type = RD ===================
+<< 902017
+<< 
+>> Food: 4 booked
+>> Concert: 0 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 358, id = 902006, step = 54 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 489, id = 902001, step = 55 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 432, id = 902011, step = 56 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 273, id = 902001, step = 57 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 342, id = 902019, step = 58 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 365, id = 902012, step = 59 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 58, id = 902009, step = 60 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 327, id = 902013, step = 61 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 261, id = 902012, step = 62 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 321, id = 902010, step = 63 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 176, id = 902003, step = 64 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 90, id = 902005, step = 65 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 87, id = 902020, step = 66 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 497, id = 902009, step = 67 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 318, id = 902006, step = 68 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 322, id = 902011, step = 69 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 21, id = 902003, step = 70 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 69, id = 902012, step = 71 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 309, id = 902010, step = 72 type = RD ===================
+<< Ctrl+C
+=================== cli = 155, id = 902003, step = 73 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 474, id = 902017, step = 74 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 138, id = 902018, step = 75 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 118, id = 902011, step = 76 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 244, id = 902001, step = 77 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 6, id = 902001, step = 78 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 4, id = 902020, step = 79 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 98, id = 902011, step = 80 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 411, id = 902007, step = 81 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 158, id = 902012, step = 82 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 230, id = 902020, step = 83 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 75, id = 902001, step = 84 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 308, id = 902013, step = 85 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 289, id = 902012, step = 86 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 6, id = 902001, step = 87 type = WR ===================
+<< 902001
+<< 
+>> Locked.
+>> 
+=================== cli = 30, id = 902007, step = 88 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 88, id = 902010, step = 89 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 132, id = 902004, step = 90 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 37, id = 902013, step = 91 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 110, id = 902017, step = 92 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 110, id = 902017, step = 93 type = RD ===================
+<< Ctrl+C
+=================== cli = 344, id = 902014, step = 94 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 245, id = 902015, step = 95 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 272, id = 902007, step = 96 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 104, id = 902009, step = 97 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 142, id = 902010, step = 98 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 1, id = 902020, step = 99 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 65, id = 902004, step = 100 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 27, id = 902018, step = 101 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 418, id = 902015, step = 102 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 386, id = 902019, step = 103 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 236, id = 902014, step = 104 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 318, id = 902006, step = 105 type = WR ===================
+<< 902006
+<< 
+>> Food: 0 booked
+>> Concert: 0 booked
+>> Electronics: 0 booked
+>> 
+>> Please input your booking command. (Food, Concert, Electronics. Positive/negative value increases/decreases the booking amount.):
+>> 
+=================== cli = 391, id = 902020, step = 106 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 169, id = 902019, step = 107 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 426, id = 902017, step = 108 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 87, id = 902020, step = 109 type = RD ===================
+<< 902020
+<< 
+>> Food: 3 booked
+>> Concert: 2 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 494, id = 902013, step = 110 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 286, id = 902016, step = 111 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 418, id = 902015, step = 112 type = WR ===================
+<< 902015
+<< 
+>> Food: 3 booked
+>> Concert: 2 booked
+>> Electronics: 3 booked
+>> 
+>> Please input your booking command. (Food, Concert, Electronics. Positive/negative value increases/decreases the booking amount.):
+>> 
+=================== cli = 384, id = 902018, step = 113 type = WR ===================
+<< Ctrl+C
+=================== cli = 72, id = 902002, step = 114 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 231, id = 902008, step = 115 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 427, id = 902013, step = 116 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 332, id = 902015, step = 117 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 290, id = 902007, step = 118 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 147, id = 902006, step = 119 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 195, id = 902013, step = 120 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 39, id = 902001, step = 121 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 346, id = 902005, step = 122 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 423, id = 902007, step = 123 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 469, id = 902014, step = 124 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 156, id = 902010, step = 125 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 234, id = 902009, step = 126 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 229, id = 902009, step = 127 type = WR ===================
+<< Ctrl+C
+=================== cli = 409, id = 902016, step = 128 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 349, id = 902013, step = 129 type = RD ===================
+<< Ctrl+C
+=================== cli = 184, id = 902012, step = 130 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 66, id = 902014, step = 131 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 377, id = 902006, step = 132 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 173, id = 902009, step = 133 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 492, id = 902020, step = 134 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 478, id = 902015, step = 135 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 75, id = 902001, step = 136 type = WR ===================
+<< 902001
+<< 
+>> Locked.
+>> 
+=================== cli = 143, id = 902019, step = 137 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 488, id = 902003, step = 138 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 216, id = 902017, step = 139 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 463, id = 902013, step = 140 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 339, id = 902004, step = 141 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 350, id = 902013, step = 142 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 447, id = 902003, step = 143 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 342, id = 902019, step = 144 type = WR ===================
+<< 902019
+<< 
+>> Food: 1 booked
+>> Concert: 2 booked
+>> Electronics: 2 booked
+>> 
+>> Please input your booking command. (Food, Concert, Electronics. Positive/negative value increases/decreases the booking amount.):
+>> 
+=================== cli = 255, id = 902015, step = 145 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 298, id = 902002, step = 146 type = RD ===================
+<< 902002
+<< 
+>> Food: 2 booked
+>> Concert: 4 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 442, id = 902011, step = 147 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 316, id = 902006, step = 148 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 372, id = 902003, step = 149 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 133, id = 902007, step = 150 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 183, id = 902008, step = 151 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 314, id = 902020, step = 152 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 129, id = 902017, step = 153 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 26, id = 902003, step = 154 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 412, id = 902010, step = 155 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 166, id = 902005, step = 156 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 440, id = 902017, step = 157 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 183, id = 902008, step = 158 type = RD ===================
+<< Ctrl+C
+=================== cli = 215, id = 902002, step = 159 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 117, id = 902020, step = 160 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 195, id = 902013, step = 161 type = RD ===================
+<< 902013
+<< 
+>> Food: 1 booked
+>> Concert: 0 booked
+>> Electronics: 3 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 224, id = 902005, step = 162 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 280, id = 902002, step = 163 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 181, id = 902002, step = 164 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 483, id = 902014, step = 165 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 486, id = 902013, step = 166 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 241, id = 902015, step = 167 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 356, id = 902019, step = 168 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 96, id = 902013, step = 169 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 319, id = 902013, step = 170 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 3, id = 902011, step = 171 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 454, id = 902009, step = 172 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 21, id = 902003, step = 173 type = WR ===================
+<< 902003
+<< 
+>> Food: 2 booked
+>> Concert: 4 booked
+>> Electronics: 4 booked
+>> 
+>> Please input your booking command. (Food, Concert, Electronics. Positive/negative value increases/decreases the booking amount.):
+>> 
+=================== cli = 365, id = 902012, step = 174 type = WR ===================
+<< Ctrl+C
+=================== cli = 129, id = 902017, step = 175 type = WR ===================
+<< 902017
+<< 
+>> Locked.
+>> 
+=================== cli = 137, id = 902018, step = 176 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 449, id = 902013, step = 177 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 342, id = 902019, step = 178 type = WR ===================
+<< 0 0 0
+<< 
+>> Bookings for user 902019 are updated, the new booking state is:
+>> Food: 1 booked
+>> Concert: 2 booked
+>> Electronics: 2 booked
+>> 
+=================== cli = 348, id = 902003, step = 179 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 53, id = 902005, step = 180 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 432, id = 902011, step = 181 type = RD ===================
+<< 902011
+<< 
+>> Food: 2 booked
+>> Concert: 3 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 13, id = 902008, step = 182 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 488, id = 902003, step = 183 type = WR ===================
+<< 902003
+<< 
+>> Locked.
+>> 
+=================== cli = 197, id = 902012, step = 184 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 367, id = 902005, step = 185 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 314, id = 902020, step = 186 type = RD ===================
+<< 902020
+<< 
+>> Food: 3 booked
+>> Concert: 2 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 398, id = 902004, step = 187 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 398, id = 902004, step = 188 type = RD ===================
+<< 902004
+<< 
+>> Food: 4 booked
+>> Concert: 1 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 492, id = 902020, step = 189 type = RD ===================
+<< 902020
+<< 
+>> Food: 3 booked
+>> Concert: 2 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 451, id = 902001, step = 190 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 133, id = 902007, step = 191 type = WR ===================
+<< 902007
+<< 
+>> Food: 0 booked
+>> Concert: 3 booked
+>> Electronics: 2 booked
+>> 
+>> Please input your booking command. (Food, Concert, Electronics. Positive/negative value increases/decreases the booking amount.):
+>> 
+=================== cli = 84, id = 902006, step = 192 type = RD ===================
+<< 902006
+<< 
+>> Locked.
+>> 
+=================== cli = 12, id = 902003, step = 193 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 326, id = 902013, step = 194 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 192, id = 902005, step = 195 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 288, id = 902020, step = 196 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 262, id = 902005, step = 197 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 380, id = 902007, step = 198 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 222, id = 902002, step = 199 type = RD ===================
+<< 902002
+<< 
+>> Food: 2 booked
+>> Concert: 4 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 196, id = 902005, step = 200 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 406, id = 902020, step = 201 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 25, id = 902015, step = 202 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 98, id = 902011, step = 203 type = RD ===================
+<< 902011
+<< 
+>> Food: 2 booked
+>> Concert: 3 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 359, id = 902005, step = 204 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 382, id = 902015, step = 205 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 288, id = 902020, step = 206 type = RD ===================
+<< 902020
+<< 
+>> Food: 3 booked
+>> Concert: 2 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 34, id = 902002, step = 207 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 361, id = 902012, step = 208 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 118, id = 902011, step = 209 type = RD ===================
+<< 902011
+<< 
+>> Food: 2 booked
+>> Concert: 3 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 280, id = 902002, step = 210 type = WR ===================
+<< 902002
+<< 
+>> Locked.
+>> 
+=================== cli = 163, id = 902018, step = 211 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 393, id = 902008, step = 212 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 326, id = 902013, step = 213 type = RD ===================
+<< 902013
+<< 
+>> Food: 1 booked
+>> Concert: 0 booked
+>> Electronics: 3 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 207, id = 902002, step = 214 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 320, id = 902009, step = 215 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 412, id = 902010, step = 216 type = WR ===================
+<< 902010
+<< 
+>> Food: 0 booked
+>> Concert: 2 booked
+>> Electronics: 1 booked
+>> 
+>> Please input your booking command. (Food, Concert, Electronics. Positive/negative value increases/decreases the booking amount.):
+>> 
+=================== cli = 278, id = 902017, step = 217 type = RD ===================
+<< 902017
+<< 
+>> Food: 4 booked
+>> Concert: 0 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 443, id = 902013, step = 218 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 275, id = 902008, step = 219 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 263, id = 902020, step = 220 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 240, id = 902018, step = 221 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 218, id = 902001, step = 222 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 478, id = 902015, step = 223 type = WR ===================
+<< 902015
+<< 
+>> Locked.
+>> 
+=================== cli = 306, id = 902014, step = 224 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 422, id = 902014, step = 225 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 36, id = 902007, step = 226 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 256, id = 902009, step = 227 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 60, id = 902014, step = 228 type = RD ===================
+<< 902014
+<< 
+>> Food: 2 booked
+>> Concert: 1 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 83, id = 902013, step = 229 type = RD ===================
+<< Ctrl+C
+=================== cli = 287, id = 902006, step = 230 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 143, id = 902019, step = 231 type = RD ===================
+<< 902019
+<< 
+>> Food: 1 booked
+>> Concert: 2 booked
+>> Electronics: 2 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 475, id = 902012, step = 232 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 406, id = 902020, step = 233 type = WR ===================
+<< Ctrl+C
+=================== cli = 418, id = 902015, step = 234 type = WR ===================
+<< 0 0 0
+<< 
+>> Bookings for user 902015 are updated, the new booking state is:
+>> Food: 3 booked
+>> Concert: 2 booked
+>> Electronics: 3 booked
+>> 
+=================== cli = 116, id = 902018, step = 235 type = RD ===================
+<< Ctrl+C
+=================== cli = 36, id = 902007, step = 236 type = WR ===================
+<< Ctrl+C
+=================== cli = 95, id = 902014, step = 237 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 217, id = 902001, step = 238 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 497, id = 902009, step = 239 type = WR ===================
+<< Ctrl+C
+=================== cli = 445, id = 902018, step = 240 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 201, id = 902009, step = 241 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 80, id = 902007, step = 242 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 289, id = 902012, step = 243 type = RD ===================
+<< Ctrl+C
+=================== cli = 243, id = 902007, step = 244 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 268, id = 902006, step = 245 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 22, id = 902015, step = 246 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 438, id = 902017, step = 247 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 164, id = 902006, step = 248 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 456, id = 902012, step = 249 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 425, id = 902002, step = 250 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 372, id = 902003, step = 251 type = WR ===================
+<< 902003
+<< 
+>> Locked.
+>> 
+=================== cli = 268, id = 902006, step = 252 type = RD ===================
+<< 902006
+<< 
+>> Locked.
+>> 
+=================== cli = 400, id = 902010, step = 253 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 77, id = 902016, step = 254 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 51, id = 902008, step = 255 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 287, id = 902006, step = 256 type = WR ===================
+<< 902006
+<< 
+>> Locked.
+>> 
+=================== cli = 279, id = 902007, step = 257 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 323, id = 902013, step = 258 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 170, id = 902006, step = 259 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 125, id = 902017, step = 260 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 80, id = 902007, step = 261 type = RD ===================
+<< Ctrl+C
+=================== cli = 198, id = 902013, step = 262 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 250, id = 902019, step = 263 type = RD ===================
+<< 902019
+<< 
+>> Food: 1 booked
+>> Concert: 2 booked
+>> Electronics: 2 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 162, id = 902018, step = 264 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 442, id = 902011, step = 265 type = RD ===================
+<< 902011
+<< 
+>> Food: 2 booked
+>> Concert: 3 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 437, id = 902007, step = 266 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 234, id = 902009, step = 267 type = WR ===================
+<< 902009
+<< 
+>> Food: 1 booked
+>> Concert: 2 booked
+>> Electronics: 0 booked
+>> 
+>> Please input your booking command. (Food, Concert, Electronics. Positive/negative value increases/decreases the booking amount.):
+>> 
+=================== cli = 198, id = 902013, step = 268 type = WR ===================
+<< 902013
+<< 
+>> Locked.
+>> 
+=================== cli = 394, id = 902017, step = 269 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 162, id = 902018, step = 270 type = WR ===================
+<< 902018
+<< 
+>> Food: 1 booked
+>> Concert: 4 booked
+>> Electronics: 4 booked
+>> 
+>> Please input your booking command. (Food, Concert, Electronics. Positive/negative value increases/decreases the booking amount.):
+>> 
+=================== cli = 221, id = 902008, step = 271 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 355, id = 902007, step = 272 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 401, id = 902003, step = 273 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 11, id = 902014, step = 274 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 212, id = 902007, step = 275 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 473, id = 902012, step = 276 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 231, id = 902008, step = 277 type = WR ===================
+<< Ctrl+C
+=================== cli = 322, id = 902011, step = 278 type = RD ===================
+<< 902011
+<< 
+>> Food: 2 booked
+>> Concert: 3 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 27, id = 902018, step = 279 type = WR ===================
+<< Ctrl+C
+=================== cli = 158, id = 902012, step = 280 type = RD ===================
+<< 902012
+<< 
+>> Food: 3 booked
+>> Concert: 2 booked
+>> Electronics: 2 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 436, id = 902020, step = 281 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 26, id = 902003, step = 282 type = RD ===================
+<< Ctrl+C
+=================== cli = 55, id = 902010, step = 283 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 273, id = 902001, step = 284 type = RD ===================
+<< 902001
+<< 
+>> Food: 3 booked
+>> Concert: 0 booked
+>> Electronics: 3 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 297, id = 902019, step = 285 type = WR ===================
+<< 902019
+<< 
+>> Locked.
+>> 
+=================== cli = 117, id = 902020, step = 286 type = WR ===================
+<< 902020
+<< 
+>> Locked.
+>> 
+=================== cli = 165, id = 902009, step = 287 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 333, id = 902017, step = 288 type = RD ===================
+<< Exit
+<< 
+=================== cli = 473, id = 902012, step = 289 type = RD ===================
+<< 902012
+<< 
+>> Food: 3 booked
+>> Concert: 2 booked
+>> Electronics: 2 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 375, id = 902017, step = 290 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 493, id = 902020, step = 291 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 134, id = 902006, step = 292 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 219, id = 902002, step = 293 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 68, id = 902006, step = 294 type = RD ===================
+<< 902006
+<< 
+>> Locked.
+>> 
+=================== cli = 168, id = 902013, step = 295 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 34, id = 902002, step = 296 type = RD ===================
+<< 902002
+<< 
+>> Food: 2 booked
+>> Concert: 4 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 376, id = 902005, step = 297 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 57, id = 902016, step = 298 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 90, id = 902005, step = 299 type = RD ===================
+<< 902005
+<< 
+>> Food: 1 booked
+>> Concert: 2 booked
+>> Electronics: 3 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 415, id = 902015, step = 300 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 315, id = 902008, step = 301 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 274, id = 902003, step = 302 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 395, id = 902015, step = 303 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 99, id = 902015, step = 304 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 257, id = 902016, step = 305 type = RD ===================
+<< Ctrl+C
+=================== cli = 88, id = 902010, step = 306 type = RD ===================
+<< 902010
+<< 
+>> Locked.
+>> 
+=================== cli = 212, id = 902007, step = 307 type = WR ===================
+<< 902007
+<< 
+>> Locked.
+>> 
+=================== cli = 218, id = 902001, step = 308 type = WR ===================
+<< Ctrl+C
+=================== cli = 30, id = 902007, step = 309 type = RD ===================
+<< 902007
+<< 
+>> Locked.
+>> 
+=================== cli = 258, id = 902003, step = 310 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 203, id = 902011, step = 311 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 457, id = 902001, step = 312 type = WR ===================
+<< 902001
+<< 
+>> Locked.
+>> 
+=================== cli = 491, id = 902015, step = 313 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 361, id = 902012, step = 314 type = RD ===================
+<< 902012
+<< 
+>> Food: 3 booked
+>> Concert: 2 booked
+>> Electronics: 2 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 89, id = 902014, step = 315 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 234, id = 902009, step = 316 type = WR ===================
+<< Ctrl+C
+=================== cli = 187, id = 902002, step = 317 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 452, id = 902015, step = 318 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 91, id = 902001, step = 319 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 317, id = 902016, step = 320 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 70, id = 902002, step = 321 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 485, id = 902011, step = 322 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 261, id = 902012, step = 323 type = RD ===================
+<< 902012
+<< 
+>> Food: 3 booked
+>> Concert: 2 booked
+>> Electronics: 2 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 387, id = 902003, step = 324 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 143, id = 902019, step = 325 type = RD ===================
+<< Exit
+<< 
+=================== cli = 137, id = 902018, step = 326 type = WR ===================
+<< 902018
+<< 
+>> Locked.
+>> 
+=================== cli = 304, id = 902003, step = 327 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 337, id = 902011, step = 328 type = WR ===================
+<< 902011
+<< 
+>> Locked.
+>> 
+=================== cli = 350, id = 902013, step = 329 type = WR ===================
+<< 902013
+<< 
+>> Locked.
+>> 
+=================== cli = 308, id = 902013, step = 330 type = RD ===================
+<< 902013
+<< 
+>> Food: 1 booked
+>> Concert: 0 booked
+>> Electronics: 3 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 391, id = 902020, step = 331 type = WR ===================
+<< Ctrl+C
+=================== cli = 158, id = 902012, step = 332 type = RD ===================
+<< Ctrl+C
+=================== cli = 485, id = 902011, step = 333 type = RD ===================
+<< 902011
+<< 
+>> Food: 2 booked
+>> Concert: 3 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 482, id = 902002, step = 334 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 45, id = 902006, step = 335 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 364, id = 902014, step = 336 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 402, id = 902018, step = 337 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 453, id = 902008, step = 338 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 434, id = 902008, step = 339 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 101, id = 902001, step = 340 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 47, id = 902016, step = 341 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 472, id = 902006, step = 342 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 71, id = 902020, step = 343 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 11, id = 902014, step = 344 type = RD ===================
+<< Ctrl+C
+=================== cli = 211, id = 902005, step = 345 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 432, id = 902011, step = 346 type = RD ===================
+<< Exit
+<< 
+=================== cli = 282, id = 902020, step = 347 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 253, id = 902012, step = 348 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 194, id = 902017, step = 349 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 435, id = 902018, step = 350 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 44, id = 902013, step = 351 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 65, id = 902004, step = 352 type = WR ===================
+<< 902004
+<< 
+>> Locked.
+>> 
+=================== cli = 310, id = 902006, step = 353 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 334, id = 902010, step = 354 type = RD ===================
+<< 902010
+<< 
+>> Locked.
+>> 
+=================== cli = 312, id = 902007, step = 355 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 436, id = 902020, step = 356 type = RD ===================
+<< 902020
+<< 
+>> Food: 3 booked
+>> Concert: 2 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 77, id = 902016, step = 357 type = RD ===================
+<< Ctrl+C
+=================== cli = 214, id = 902002, step = 358 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 156, id = 902010, step = 359 type = RD ===================
+<< Ctrl+C
+=================== cli = 373, id = 902009, step = 360 type = RD ===================
+<< 902009
+<< 
+>> Food: 1 booked
+>> Concert: 2 booked
+>> Electronics: 0 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 58, id = 902009, step = 361 type = RD ===================
+<< 902009
+<< 
+>> Food: 1 booked
+>> Concert: 2 booked
+>> Electronics: 0 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 469, id = 902014, step = 362 type = RD ===================
+<< 902014
+<< 
+>> Food: 2 booked
+>> Concert: 1 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 99, id = 902015, step = 363 type = WR ===================
+<< 902015
+<< 
+>> Food: 3 booked
+>> Concert: 2 booked
+>> Electronics: 3 booked
+>> 
+>> Please input your booking command. (Food, Concert, Electronics. Positive/negative value increases/decreases the booking amount.):
+>> 
+=================== cli = 204, id = 902018, step = 364 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 153, id = 902018, step = 365 type = WR ===================
+<< 902018
+<< 
+>> Locked.
+>> 
+=================== cli = 115, id = 902007, step = 366 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 409, id = 902016, step = 367 type = WR ===================
+<< 902016
+<< 
+>> Food: 1 booked
+>> Concert: 3 booked
+>> Electronics: 0 booked
+>> 
+>> Please input your booking command. (Food, Concert, Electronics. Positive/negative value increases/decreases the booking amount.):
+>> 
+=================== cli = 317, id = 902016, step = 368 type = RD ===================
+<< 902016
+<< 
+>> Locked.
+>> 
+=================== cli = 430, id = 902018, step = 369 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 458, id = 902013, step = 370 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 7, id = 902005, step = 371 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 285, id = 902006, step = 372 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 386, id = 902019, step = 373 type = WR ===================
+<< 902019
+<< 
+>> Locked.
+>> 
+=================== cli = 445, id = 902018, step = 374 type = RD ===================
+<< 902018
+<< 
+>> Locked.
+>> 
+=================== cli = 108, id = 902020, step = 375 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 449, id = 902013, step = 376 type = RD ===================
+<< 902013
+<< 
+>> Food: 1 booked
+>> Concert: 0 booked
+>> Electronics: 3 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 447, id = 902003, step = 377 type = RD ===================
+<< Ctrl+C
+=================== cli = 394, id = 902017, step = 378 type = RD ===================
+<< 902017
+<< 
+>> Food: 4 booked
+>> Concert: 0 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 4, id = 902020, step = 379 type = RD ===================
+<< 902020
+<< 
+>> Food: 3 booked
+>> Concert: 2 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 50, id = 902019, step = 380 type = WR ===================
+<< 902019
+<< 
+>> Locked.
+>> 
+=================== cli = 149, id = 902016, step = 381 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 249, id = 902003, step = 382 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 221, id = 902008, step = 383 type = RD ===================
+<< Ctrl+C
+=================== cli = 322, id = 902011, step = 384 type = RD ===================
+<< Exit
+<< 
+=================== cli = 37, id = 902013, step = 385 type = RD ===================
+<< 902013
+<< 
+>> Food: 1 booked
+>> Concert: 0 booked
+>> Electronics: 3 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 23, id = 902003, step = 386 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 64, id = 902016, step = 387 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 368, id = 902015, step = 388 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 443, id = 902013, step = 389 type = RD ===================
+<< 902013
+<< 
+>> Food: 1 booked
+>> Concert: 0 booked
+>> Electronics: 3 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 226, id = 902009, step = 390 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 246, id = 902014, step = 391 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 139, id = 902012, step = 392 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 376, id = 902005, step = 393 type = RD ===================
+<< 902005
+<< 
+>> Food: 1 booked
+>> Concert: 2 booked
+>> Electronics: 3 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 305, id = 902012, step = 394 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 398, id = 902004, step = 395 type = RD ===================
+<< Ctrl+C
+=================== cli = 358, id = 902006, step = 396 type = RD ===================
+<< 902006
+<< 
+>> Locked.
+>> 
+=================== cli = 456, id = 902012, step = 397 type = WR ===================
+<< 902012
+<< 
+>> Locked.
+>> 
+=================== cli = 264, id = 902001, step = 398 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 155, id = 902003, step = 399 type = WR ===================
+<< 902003
+<< 
+>> Locked.
+>> 
+=================== cli = 97, id = 902007, step = 400 type = WR ===================
+<< Ctrl+C
+=================== cli = 341, id = 902009, step = 401 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 103, id = 902016, step = 402 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 440, id = 902017, step = 403 type = RD ===================
+<< Ctrl+C
+=================== cli = 474, id = 902017, step = 404 type = RD ===================
+<< 902017
+<< 
+>> Food: 4 booked
+>> Concert: 0 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 378, id = 902012, step = 405 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 438, id = 902017, step = 406 type = WR ===================
+<< 902017
+<< 
+>> Locked.
+>> 
+=================== cli = 134, id = 902006, step = 407 type = RD ===================
+<< 902006
+<< 
+>> Locked.
+>> 
+=================== cli = 401, id = 902003, step = 408 type = RD ===================
+<< Ctrl+C
+=================== cli = 113, id = 902016, step = 409 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 33, id = 902018, step = 410 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 392, id = 902019, step = 411 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 67, id = 902020, step = 412 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 492, id = 902020, step = 413 type = RD ===================
+<< Ctrl+C
+=================== cli = 34, id = 902002, step = 414 type = RD ===================
+<< Exit
+<< 
+=================== cli = 330, id = 902001, step = 415 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 380, id = 902007, step = 416 type = WR ===================
+<< 902007
+<< 
+>> Locked.
+>> 
+=================== cli = 315, id = 902008, step = 417 type = WR ===================
+<< Ctrl+C
+=================== cli = 331, id = 902001, step = 418 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 98, id = 902011, step = 419 type = RD ===================
+<< Exit
+<< 
+=================== cli = 345, id = 902017, step = 420 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 371, id = 902016, step = 421 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 48, id = 902019, step = 422 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 252, id = 902005, step = 423 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 399, id = 902008, step = 424 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 293, id = 902007, step = 425 type = RD ===================
+<< 902007
+<< 
+>> Locked.
+>> 
+=================== cli = 338, id = 902019, step = 426 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 220, id = 902005, step = 427 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 54, id = 902011, step = 428 type = RD ===================
+<< Ctrl+C
+=================== cli = 102, id = 902003, step = 429 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 301, id = 902005, step = 430 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 14, id = 902019, step = 431 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 443, id = 902013, step = 432 type = RD ===================
+<< Exit
+<< 
+=================== cli = 0, id = 902008, step = 433 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 204, id = 902018, step = 434 type = WR ===================
+<< 902018
+<< 
+>> Locked.
+>> 
+=================== cli = 87, id = 902020, step = 435 type = RD ===================
+<< Exit
+<< 
+=================== cli = 9, id = 902006, step = 436 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 217, id = 902001, step = 437 type = WR ===================
+<< 902001
+<< 
+>> Locked.
+>> 
+=================== cli = 111, id = 902006, step = 438 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 405, id = 902005, step = 439 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 253, id = 902012, step = 440 type = RD ===================
+<< Ctrl+C
+=================== cli = 240, id = 902018, step = 441 type = RD ===================
+<< 902018
+<< 
+>> Locked.
+>> 
+=================== cli = 302, id = 902017, step = 442 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 367, id = 902005, step = 443 type = RD ===================
+<< 902005
+<< 
+>> Food: 1 booked
+>> Concert: 2 booked
+>> Electronics: 3 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 410, id = 902001, step = 444 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 165, id = 902009, step = 445 type = RD ===================
+<< 902009
+<< 
+>> Food: 1 booked
+>> Concert: 2 booked
+>> Electronics: 0 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 61, id = 902012, step = 446 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 460, id = 902018, step = 447 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 415, id = 902015, step = 448 type = RD ===================
+<< 902015
+<< 
+>> Locked.
+>> 
+=================== cli = 79, id = 902013, step = 449 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 89, id = 902014, step = 450 type = RD ===================
+<< 902014
+<< 
+>> Food: 2 booked
+>> Concert: 1 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 124, id = 902016, step = 451 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 228, id = 902002, step = 452 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 319, id = 902013, step = 453 type = RD ===================
+<< 902013
+<< 
+>> Food: 1 booked
+>> Concert: 0 booked
+>> Electronics: 3 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 259, id = 902019, step = 454 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 81, id = 902005, step = 455 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 38, id = 902016, step = 456 type = RD ===================
+<< 902016
+<< 
+>> Locked.
+>> 
+=================== cli = 245, id = 902015, step = 457 type = RD ===================
+<< Ctrl+C
+=================== cli = 56, id = 902008, step = 458 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 22, id = 902015, step = 459 type = WR ===================
+<< 902015
+<< 
+>> Locked.
+>> 
+=================== cli = 232, id = 902011, step = 460 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 130, id = 902015, step = 461 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 267, id = 902005, step = 462 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 24, id = 902014, step = 463 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 273, id = 902001, step = 464 type = RD ===================
+<< Exit
+<< 
+=================== cli = 450, id = 902011, step = 465 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 188, id = 902019, step = 466 type = RD ===================
+<< Ctrl+C
+=================== cli = 472, id = 902006, step = 467 type = RD ===================
+<< 902006
+<< 
+>> Locked.
+>> 
+=================== cli = 142, id = 902010, step = 468 type = RD ===================
+<< 902010
+<< 
+>> Locked.
+>> 
+=================== cli = 20, id = 902012, step = 469 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 411, id = 902007, step = 470 type = RD ===================
+<< 902007
+<< 
+>> Locked.
+>> 
+=================== cli = 468, id = 902005, step = 471 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 291, id = 902018, step = 472 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 31, id = 902011, step = 473 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 141, id = 902018, step = 474 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 227, id = 902012, step = 475 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 78, id = 902013, step = 476 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 475, id = 902012, step = 477 type = WR ===================
+<< 902012
+<< 
+>> Locked.
+>> 
+=================== cli = 193, id = 902007, step = 478 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 381, id = 902001, step = 479 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 271, id = 902005, step = 480 type = WR ===================
+<< 902005
+<< 
+>> Locked.
+>> 
+=================== cli = 193, id = 902007, step = 481 type = RD ===================
+<< 902007
+<< 
+>> Locked.
+>> 
+=================== cli = 487, id = 902006, step = 482 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 345, id = 902017, step = 483 type = RD ===================
+<< 902017
+<< 
+>> Food: 4 booked
+>> Concert: 0 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 157, id = 902009, step = 484 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 270, id = 902006, step = 485 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 260, id = 902007, step = 486 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 140, id = 902004, step = 487 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 127, id = 902015, step = 488 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 154, id = 902001, step = 489 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 385, id = 902005, step = 490 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 62, id = 902006, step = 491 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 363, id = 902008, step = 492 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 93, id = 902007, step = 493 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 363, id = 902008, step = 494 type = WR ===================
+<< 902008
+<< 
+>> Food: 2 booked
+>> Concert: 1 booked
+>> Electronics: 2 booked
+>> 
+>> Please input your booking command. (Food, Concert, Electronics. Positive/negative value increases/decreases the booking amount.):
+>> 
+=================== cli = 264, id = 902001, step = 495 type = WR ===================
+<< 902001
+<< 
+>> Locked.
+>> 
+=================== cli = 314, id = 902020, step = 496 type = RD ===================
+<< Exit
+<< 
+=================== cli = 484, id = 902020, step = 497 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 409, id = 902016, step = 498 type = WR ===================
+<< 0 0 0
+<< 
+>> Bookings for user 902016 are updated, the new booking state is:
+>> Food: 1 booked
+>> Concert: 3 booked
+>> Electronics: 0 booked
+>> 
+=================== cli = 319, id = 902013, step = 499 type = RD ===================
+<< Exit
+<< 
+=================== cli = 95, id = 902014, step = 500 type = RD ===================
+<< Ctrl+C
+=================== cli = 339, id = 902004, step = 501 type = RD ===================
+<< 902004
+<< 
+>> Food: 4 booked
+>> Concert: 1 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 465, id = 902018, step = 502 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 274, id = 902003, step = 503 type = WR ===================
+<< Ctrl+C
+=================== cli = 41, id = 902006, step = 504 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 329, id = 902005, step = 505 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 331, id = 902001, step = 506 type = WR ===================
+<< 902001
+<< 
+>> Locked.
+>> 
+=================== cli = 39, id = 902001, step = 507 type = RD ===================
+<< 902001
+<< 
+>> Food: 3 booked
+>> Concert: 0 booked
+>> Electronics: 3 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 196, id = 902005, step = 508 type = RD ===================
+<< 902005
+<< 
+>> Food: 1 booked
+>> Concert: 2 booked
+>> Electronics: 3 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 220, id = 902005, step = 509 type = WR ===================
+<< 902005
+<< 
+>> Locked.
+>> 
+=================== cli = 31, id = 902011, step = 510 type = WR ===================
+<< 902011
+<< 
+>> Locked.
+>> 
+=================== cli = 352, id = 902015, step = 511 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 298, id = 902002, step = 512 type = RD ===================
+<< Exit
+<< 
+=================== cli = 209, id = 902011, step = 513 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 283, id = 902014, step = 514 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 71, id = 902020, step = 515 type = RD ===================
+<< 902020
+<< 
+>> Food: 3 booked
+>> Concert: 2 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 480, id = 902002, step = 516 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 302, id = 902017, step = 517 type = WR ===================
+<< 902017
+<< 
+>> Locked.
+>> 
+=================== cli = 138, id = 902018, step = 518 type = WR ===================
+<< 902018
+<< 
+>> Locked.
+>> 
+=================== cli = 209, id = 902011, step = 519 type = RD ===================
+<< 902011
+<< 
+>> Food: 2 booked
+>> Concert: 3 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 351, id = 902010, step = 520 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 40, id = 902005, step = 521 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 427, id = 902013, step = 522 type = WR ===================
+<< 902013
+<< 
+>> Locked.
+>> 
+=================== cli = 14, id = 902019, step = 523 type = RD ===================
+<< 902019
+<< 
+>> Food: 1 booked
+>> Concert: 2 booked
+>> Electronics: 2 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 356, id = 902019, step = 524 type = WR ===================
+<< 902019
+<< 
+>> Locked.
+>> 
+=================== cli = 362, id = 902011, step = 525 type = WR ===================
+<< 902011
+<< 
+>> Locked.
+>> 
+=================== cli = 330, id = 902001, step = 526 type = RD ===================
+<< 902001
+<< 
+>> Food: 3 booked
+>> Concert: 0 booked
+>> Electronics: 3 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 9, id = 902006, step = 527 type = WR ===================
+<< 902006
+<< 
+>> Locked.
+>> 
+=================== cli = 361, id = 902012, step = 528 type = RD ===================
+<< Ctrl+C
+=================== cli = 104, id = 902009, step = 529 type = WR ===================
+<< Ctrl+C
+=================== cli = 121, id = 902004, step = 530 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 326, id = 902013, step = 531 type = RD ===================
+<< Ctrl+C
+=================== cli = 312, id = 902007, step = 532 type = WR ===================
+<< 902007
+<< 
+>> Locked.
+>> 
+=================== cli = 360, id = 902012, step = 533 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 305, id = 902012, step = 534 type = WR ===================
+<< Ctrl+C
+=================== cli = 417, id = 902014, step = 535 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 238, id = 902008, step = 536 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 381, id = 902001, step = 537 type = WR ===================
+<< 902001
+<< 
+>> Locked.
+>> 
+=================== cli = 72, id = 902002, step = 538 type = RD ===================
+<< Ctrl+C
+=================== cli = 165, id = 902009, step = 539 type = RD ===================
+<< Exit
+<< 
+=================== cli = 144, id = 902017, step = 540 type = WR ===================
+<< 902017
+<< 
+>> Locked.
+>> 
+=================== cli = 306, id = 902014, step = 541 type = WR ===================
+<< 902014
+<< 
+>> Locked.
+>> 
+=================== cli = 278, id = 902017, step = 542 type = RD ===================
+<< Ctrl+C
+=================== cli = 121, id = 902004, step = 543 type = WR ===================
+<< 902004
+<< 
+>> Locked.
+>> 
+=================== cli = 416, id = 902001, step = 544 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 265, id = 902014, step = 545 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 387, id = 902003, step = 546 type = WR ===================
+<< 902003
+<< 
+>> Locked.
+>> 
+=================== cli = 295, id = 902017, step = 547 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 382, id = 902015, step = 548 type = WR ===================
+<< 902015
+<< 
+>> Locked.
+>> 
+=================== cli = 219, id = 902002, step = 549 type = RD ===================
+<< 902002
+<< 
+>> Food: 2 booked
+>> Concert: 4 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 122, id = 902002, step = 550 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 176, id = 902003, step = 551 type = WR ===================
+<< 902003
+<< 
+>> Locked.
+>> 
+=================== cli = 344, id = 902014, step = 552 type = WR ===================
+<< Ctrl+C
+=================== cli = 186, id = 902003, step = 553 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 479, id = 902009, step = 554 type = WR ===================
+<< 902009
+<< 
+>> Locked.
+>> 
+=================== cli = 425, id = 902002, step = 555 type = WR ===================
+<< 902002
+<< 
+>> Locked.
+>> 
+=================== cli = 261, id = 902012, step = 556 type = RD ===================
+<< Exit
+<< 
+=================== cli = 354, id = 902015, step = 557 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 474, id = 902017, step = 558 type = RD ===================
+<< Ctrl+C
+=================== cli = 123, id = 902002, step = 559 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 18, id = 902014, step = 560 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 147, id = 902006, step = 561 type = RD ===================
+<< 902006
+<< 
+>> Locked.
+>> 
+=================== cli = 140, id = 902004, step = 562 type = WR ===================
+<< 902004
+<< 
+>> Locked.
+>> 
+=================== cli = 327, id = 902013, step = 563 type = WR ===================
+<< 902013
+<< 
+>> Locked.
+>> 
+=================== cli = 413, id = 902008, step = 564 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 383, id = 902006, step = 565 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 216, id = 902017, step = 566 type = RD ===================
+<< 902017
+<< 
+>> Food: 4 booked
+>> Concert: 0 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 64, id = 902016, step = 567 type = WR ===================
+<< Ctrl+C
+=================== cli = 179, id = 902005, step = 568 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 256, id = 902009, step = 569 type = WR ===================
+<< 902009
+<< 
+>> Locked.
+>> 
+=================== cli = 187, id = 902002, step = 570 type = RD ===================
+<< 902002
+<< 
+>> Food: 2 booked
+>> Concert: 4 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 272, id = 902007, step = 571 type = WR ===================
+<< Ctrl+C
+=================== cli = 451, id = 902001, step = 572 type = RD ===================
+<< 902001
+<< 
+>> Food: 3 booked
+>> Concert: 0 booked
+>> Electronics: 3 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 455, id = 902016, step = 573 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 162, id = 902018, step = 574 type = WR ===================
+<< Ctrl+C
+=================== cli = 63, id = 902018, step = 575 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 159, id = 902019, step = 576 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 355, id = 902007, step = 577 type = WR ===================
+<< 902007
+<< 
+>> Locked.
+>> 
+=================== cli = 388, id = 902019, step = 578 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 345, id = 902017, step = 579 type = RD ===================
+<< Exit
+<< 
+=================== cli = 413, id = 902008, step = 580 type = WR ===================
+<< 902008
+<< 
+>> Locked.
+>> 
+=================== cli = 159, id = 902019, step = 581 type = WR ===================
+<< 902019
+<< 
+>> Locked.
+>> 
+=================== cli = 291, id = 902018, step = 582 type = WR ===================
+<< 902018
+<< 
+>> Food: 1 booked
+>> Concert: 4 booked
+>> Electronics: 4 booked
+>> 
+>> Please input your booking command. (Food, Concert, Electronics. Positive/negative value increases/decreases the booking amount.):
+>> 
+=================== cli = 5, id = 902014, step = 583 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 177, id = 902004, step = 584 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 203, id = 902011, step = 585 type = RD ===================
+<< 902011
+<< 
+>> Food: 2 booked
+>> Concert: 3 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 149, id = 902016, step = 586 type = WR ===================
+<< 902016
+<< 
+>> Food: 1 booked
+>> Concert: 3 booked
+>> Electronics: 0 booked
+>> 
+>> Please input your booking command. (Food, Concert, Electronics. Positive/negative value increases/decreases the booking amount.):
+>> 
+=================== cli = 442, id = 902011, step = 587 type = RD ===================
+<< Ctrl+C
+=================== cli = 346, id = 902005, step = 588 type = WR ===================
+<< Ctrl+C
+=================== cli = 195, id = 902013, step = 589 type = RD ===================
+<< Exit
+<< 
+=================== cli = 371, id = 902016, step = 590 type = WR ===================
+<< 902016
+<< 
+>> Locked.
+>> 
+=================== cli = 184, id = 902012, step = 591 type = WR ===================
+<< Ctrl+C
+=================== cli = 181, id = 902002, step = 592 type = RD ===================
+<< 902002
+<< 
+>> Food: 2 booked
+>> Concert: 4 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 262, id = 902005, step = 593 type = WR ===================
+<< 902005
+<< 
+>> Locked.
+>> 
+=================== cli = 70, id = 902002, step = 594 type = RD ===================
+<< 902002
+<< 
+>> Food: 2 booked
+>> Concert: 4 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 166, id = 902005, step = 595 type = WR ===================
+<< 902005
+<< 
+>> Locked.
+>> 
+=================== cli = 437, id = 902007, step = 596 type = WR ===================
+<< 902007
+<< 
+>> Locked.
+>> 
+=================== cli = 145, id = 902004, step = 597 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 141, id = 902018, step = 598 type = WR ===================
+<< Ctrl+C
+=================== cli = 13, id = 902008, step = 599 type = WR ===================
+<< 902008
+<< 
+>> Locked.
+>> 
+=================== cli = 211, id = 902005, step = 600 type = WR ===================
+<< Ctrl+C
+=================== cli = 392, id = 902019, step = 601 type = WR ===================
+<< 902019
+<< 
+>> Locked.
+>> 
+=================== cli = 394, id = 902017, step = 602 type = RD ===================
+<< Exit
+<< 
+=================== cli = 491, id = 902015, step = 603 type = RD ===================
+<< 902015
+<< 
+>> Locked.
+>> 
+=================== cli = 364, id = 902014, step = 604 type = WR ===================
+<< Ctrl+C
+=================== cli = 225, id = 902007, step = 605 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 259, id = 902019, step = 606 type = RD ===================
+<< 902019
+<< 
+>> Food: 1 booked
+>> Concert: 2 booked
+>> Electronics: 2 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 107, id = 902004, step = 607 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 48, id = 902019, step = 608 type = WR ===================
+<< 902019
+<< 
+>> Locked.
+>> 
+=================== cli = 12, id = 902003, step = 609 type = WR ===================
+<< Ctrl+C
+=================== cli = 233, id = 902002, step = 610 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 494, id = 902013, step = 611 type = RD ===================
+<< 902013
+<< 
+>> Food: 1 booked
+>> Concert: 0 booked
+>> Electronics: 3 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 341, id = 902009, step = 612 type = WR ===================
+<< Ctrl+C
+=================== cli = 290, id = 902007, step = 613 type = WR ===================
+<< 902007
+<< 
+>> Locked.
+>> 
+=================== cli = 239, id = 902008, step = 614 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 494, id = 902013, step = 615 type = RD ===================
+<< Ctrl+C
+=================== cli = 482, id = 902002, step = 616 type = WR ===================
+<< Ctrl+C
+=================== cli = 53, id = 902005, step = 617 type = RD ===================
+<< 902005
+<< 
+>> Food: 1 booked
+>> Concert: 2 booked
+>> Electronics: 3 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 219, id = 902002, step = 618 type = RD ===================
+<< Exit
+<< 
+=================== cli = 92, id = 902011, step = 619 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 254, id = 902008, step = 620 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 109, id = 902006, step = 621 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 206, id = 902014, step = 622 type = WR ===================
+<< Ctrl+C
+=================== cli = 46, id = 902019, step = 623 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 467, id = 902005, step = 624 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 60, id = 902014, step = 625 type = RD ===================
+<< Ctrl+C
+=================== cli = 78, id = 902013, step = 626 type = WR ===================
+<< 902013
+<< 
+>> Locked.
+>> 
+=================== cli = 468, id = 902005, step = 627 type = RD ===================
+<< Ctrl+C
+=================== cli = 232, id = 902011, step = 628 type = WR ===================
+<< 902011
+<< 
+>> Locked.
+>> 
+=================== cli = 200, id = 902013, step = 629 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 93, id = 902007, step = 630 type = RD ===================
+<< 902007
+<< 
+>> Locked.
+>> 
+=================== cli = 148, id = 902014, step = 631 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 449, id = 902013, step = 632 type = RD ===================
+<< Ctrl+C
+=================== cli = 369, id = 902008, step = 633 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 286, id = 902016, step = 634 type = RD ===================
+<< 902016
+<< 
+>> Locked.
+>> 
+=================== cli = 375, id = 902017, step = 635 type = WR ===================
+<< Ctrl+C
+=================== cli = 210, id = 902014, step = 636 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 53, id = 902005, step = 637 type = RD ===================
+<< Exit
+<< 
+=================== cli = 107, id = 902004, step = 638 type = WR ===================
+<< Ctrl+C
+=================== cli = 303, id = 902016, step = 639 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 473, id = 902012, step = 640 type = RD ===================
+<< Exit
+<< 
+=================== cli = 180, id = 902008, step = 641 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 28, id = 902001, step = 642 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 393, id = 902008, step = 643 type = WR ===================
+<< 902008
+<< 
+>> Locked.
+>> 
+=================== cli = 476, id = 902020, step = 644 type = WR ===================
+<< 902020
+<< 
+>> Locked.
+>> 
+=================== cli = 112, id = 902019, step = 645 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 62, id = 902006, step = 646 type = RD ===================
+<< 902006
+<< 
+>> Locked.
+>> 
+=================== cli = 192, id = 902005, step = 647 type = RD ===================
+<< 902005
+<< 
+>> Food: 1 booked
+>> Concert: 2 booked
+>> Electronics: 3 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 189, id = 902012, step = 648 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 1, id = 902020, step = 649 type = WR ===================
+<< Ctrl+C
+=================== cli = 359, id = 902005, step = 650 type = WR ===================
+<< 902005
+<< 
+>> Locked.
+>> 
+=================== cli = 244, id = 902001, step = 651 type = RD ===================
+<< Ctrl+C
+=================== cli = 466, id = 902009, step = 652 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 73, id = 902009, step = 653 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 496, id = 902012, step = 654 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 281, id = 902019, step = 655 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 255, id = 902015, step = 656 type = RD ===================
+<< 902015
+<< 
+>> Locked.
+>> 
+=================== cli = 32, id = 902010, step = 657 type = RD ===================
+<< 902010
+<< 
+>> Locked.
+>> 
+=================== cli = 434, id = 902008, step = 658 type = RD ===================
+<< 902008
+<< 
+>> Locked.
+>> 
+=================== cli = 174, id = 902015, step = 659 type = WR ===================
+<< 902015
+<< 
+>> Locked.
+>> 
+=================== cli = 149, id = 902016, step = 660 type = WR ===================
+<< Ctrl+C
+=================== cli = 448, id = 902016, step = 661 type = RD ===================
+<< 902016
+<< 
+>> Food: 1 booked
+>> Concert: 3 booked
+>> Electronics: 0 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 499, id = 902009, step = 662 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 430, id = 902018, step = 663 type = WR ===================
+<< Ctrl+C
+=================== cli = 202, id = 902015, step = 664 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 369, id = 902008, step = 665 type = WR ===================
+<< 902008
+<< 
+>> Locked.
+>> 
+=================== cli = 463, id = 902013, step = 666 type = WR ===================
+<< Ctrl+C
+=================== cli = 201, id = 902009, step = 667 type = RD ===================
+<< Ctrl+C
+=================== cli = 242, id = 902016, step = 668 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 242, id = 902016, step = 669 type = WR ===================
+<< 902016
+<< 
+>> Locked.
+>> 
+=================== cli = 169, id = 902019, step = 670 type = WR ===================
+<< Ctrl+C
+=================== cli = 91, id = 902001, step = 671 type = WR ===================
+<< 902001
+<< 
+>> Locked.
+>> 
+=================== cli = 249, id = 902003, step = 672 type = WR ===================
+<< 902003
+<< 
+>> Locked.
+>> 
+=================== cli = 57, id = 902016, step = 673 type = WR ===================
+<< 902016
+<< 
+>> Locked.
+>> 
+=================== cli = 85, id = 902015, step = 674 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 170, id = 902006, step = 675 type = WR ===================
+<< Ctrl+C
+=================== cli = 374, id = 902007, step = 676 type = WR ===================
+<< 902007
+<< 
+>> Locked.
+>> 
+=================== cli = 390, id = 902015, step = 677 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 379, id = 902020, step = 678 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 292, id = 902020, step = 679 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 313, id = 902011, step = 680 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 47, id = 902016, step = 681 type = WR ===================
+<< 902016
+<< 
+>> Locked.
+>> 
+=================== cli = 45, id = 902006, step = 682 type = RD ===================
+<< 902006
+<< 
+>> Locked.
+>> 
+=================== cli = 250, id = 902019, step = 683 type = RD ===================
+<< Ctrl+C
+=================== cli = 109, id = 902006, step = 684 type = WR ===================
+<< Ctrl+C
+=================== cli = 191, id = 902014, step = 685 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 263, id = 902020, step = 686 type = WR ===================
+<< 902020
+<< 
+>> Locked.
+>> 
+=================== cli = 325, id = 902014, step = 687 type = WR ===================
+<< 902014
+<< 
+>> Locked.
+>> 
+=================== cli = 483, id = 902014, step = 688 type = RD ===================
+<< Ctrl+C
+=================== cli = 187, id = 902002, step = 689 type = RD ===================
+<< Ctrl+C
+=================== cli = 313, id = 902011, step = 690 type = WR ===================
+<< Ctrl+C
+=================== cli = 120, id = 902005, step = 691 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 203, id = 902011, step = 692 type = RD ===================
+<< Exit
+<< 
+=================== cli = 436, id = 902020, step = 693 type = RD ===================
+<< Exit
+<< 
+=================== cli = 455, id = 902016, step = 694 type = WR ===================
+<< 902016
+<< 
+>> Locked.
+>> 
+=================== cli = 236, id = 902014, step = 695 type = RD ===================
+<< 902014
+<< 
+>> Food: 2 booked
+>> Concert: 1 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 207, id = 902002, step = 696 type = WR ===================
+<< Ctrl+C
+=================== cli = 126, id = 902014, step = 697 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 190, id = 902012, step = 698 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 266, id = 902019, step = 699 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 79, id = 902013, step = 700 type = RD ===================
+<< 902013
+<< 
+>> Food: 1 booked
+>> Concert: 0 booked
+>> Electronics: 3 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 252, id = 902005, step = 701 type = RD ===================
+<< 902005
+<< 
+>> Food: 1 booked
+>> Concert: 2 booked
+>> Electronics: 3 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 163, id = 902018, step = 702 type = WR ===================
+<< 902018
+<< 
+>> Locked.
+>> 
+=================== cli = 173, id = 902009, step = 703 type = WR ===================
+<< 902009
+<< 
+>> Locked.
+>> 
+=================== cli = 76, id = 902011, step = 704 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 237, id = 902004, step = 705 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 182, id = 902007, step = 706 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 161, id = 902012, step = 707 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 389, id = 902007, step = 708 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 168, id = 902013, step = 709 type = WR ===================
+<< Ctrl+C
+=================== cli = 363, id = 902008, step = 710 type = WR ===================
+<< 0 0 0
+<< 
+>> Bookings for user 902008 are updated, the new booking state is:
+>> Food: 2 booked
+>> Concert: 1 booked
+>> Electronics: 2 booked
+>> 
+=================== cli = 353, id = 902013, step = 711 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 486, id = 902013, step = 712 type = RD ===================
+<< 902013
+<< 
+>> Food: 1 booked
+>> Concert: 0 booked
+>> Electronics: 3 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 118, id = 902011, step = 713 type = RD ===================
+<< Exit
+<< 
+=================== cli = 90, id = 902005, step = 714 type = RD ===================
+<< Ctrl+C
+=================== cli = 108, id = 902020, step = 715 type = RD ===================
+<< 902020
+<< 
+>> Food: 3 booked
+>> Concert: 2 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 161, id = 902012, step = 716 type = RD ===================
+<< 902012
+<< 
+>> Food: 3 booked
+>> Concert: 2 booked
+>> Electronics: 2 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 303, id = 902016, step = 717 type = WR ===================
+<< 902016
+<< 
+>> Locked.
+>> 
+=================== cli = 389, id = 902007, step = 718 type = WR ===================
+<< 902007
+<< 
+>> Locked.
+>> 
+=================== cli = 469, id = 902014, step = 719 type = RD ===================
+<< Exit
+<< 
+=================== cli = 485, id = 902011, step = 720 type = RD ===================
+<< Exit
+<< 
+=================== cli = 275, id = 902008, step = 721 type = RD ===================
+<< 902008
+<< 
+>> Food: 2 booked
+>> Concert: 1 booked
+>> Electronics: 2 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 35, id = 902001, step = 722 type = RD ===================
+<< Exit
+<< 
+=================== cli = 339, id = 902004, step = 723 type = RD ===================
+<< Exit
+<< 
+=================== cli = 63, id = 902018, step = 724 type = RD ===================
+<< 902018
+<< 
+>> Locked.
+>> 
+=================== cli = 294, id = 902001, step = 725 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 71, id = 902020, step = 726 type = RD ===================
+<< Exit
+<< 
+=================== cli = 379, id = 902020, step = 727 type = RD ===================
+<< Ctrl+C
+=================== cli = 397, id = 902006, step = 728 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 113, id = 902016, step = 729 type = RD ===================
+<< 902016
+<< 
+>> Food: 1 booked
+>> Concert: 3 booked
+>> Electronics: 0 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 416, id = 902001, step = 730 type = WR ===================
+<< 902001
+<< 
+>> Locked.
+>> 
+=================== cli = 450, id = 902011, step = 731 type = RD ===================
+<< 902011
+<< 
+>> Food: 2 booked
+>> Concert: 3 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 161, id = 902012, step = 732 type = RD ===================
+<< Exit
+<< 
+=================== cli = 376, id = 902005, step = 733 type = RD ===================
+<< Exit
+<< 
+=================== cli = 439, id = 902008, step = 734 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 282, id = 902020, step = 735 type = RD ===================
+<< 902020
+<< 
+>> Food: 3 booked
+>> Concert: 2 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 446, id = 902005, step = 736 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 395, id = 902015, step = 737 type = RD ===================
+<< 902015
+<< 
+>> Locked.
+>> 
+=================== cli = 241, id = 902015, step = 738 type = WR ===================
+<< 902015
+<< 
+>> Locked.
+>> 
+=================== cli = 89, id = 902014, step = 739 type = RD ===================
+<< Exit
+<< 
+=================== cli = 222, id = 902002, step = 740 type = RD ===================
+<< Ctrl+C
+=================== cli = 405, id = 902005, step = 741 type = RD ===================
+<< 902005
+<< 
+>> Food: 1 booked
+>> Concert: 2 booked
+>> Electronics: 3 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 124, id = 902016, step = 742 type = RD ===================
+<< Ctrl+C
+=================== cli = 215, id = 902002, step = 743 type = RD ===================
+<< 902002
+<< 
+>> Food: 2 booked
+>> Concert: 4 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 21, id = 902003, step = 744 type = WR ===================
+<< Ctrl+C
+=================== cli = 408, id = 902004, step = 745 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 458, id = 902013, step = 746 type = WR ===================
+<< 902013
+<< 
+>> Locked.
+>> 
+=================== cli = 191, id = 902014, step = 747 type = RD ===================
+<< 902014
+<< 
+>> Food: 2 booked
+>> Concert: 1 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 454, id = 902009, step = 748 type = RD ===================
+<< 902009
+<< 
+>> Food: 1 booked
+>> Concert: 2 booked
+>> Electronics: 0 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 55, id = 902010, step = 749 type = WR ===================
+<< 902010
+<< 
+>> Locked.
+>> 
+=================== cli = 275, id = 902008, step = 750 type = RD ===================
+<< Exit
+<< 
+=================== cli = 196, id = 902005, step = 751 type = RD ===================
+<< Ctrl+C
+=================== cli = 223, id = 902004, step = 752 type = RD ===================
+<< 902004
+<< 
+>> Food: 4 booked
+>> Concert: 1 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 251, id = 902004, step = 753 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 410, id = 902001, step = 754 type = WR ===================
+<< Ctrl+C
+=================== cli = 353, id = 902013, step = 755 type = WR ===================
+<< Ctrl+C
+=================== cli = 281, id = 902019, step = 756 type = RD ===================
+<< 902019
+<< 
+>> Food: 1 booked
+>> Concert: 2 booked
+>> Electronics: 2 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 259, id = 902019, step = 757 type = RD ===================
+<< Exit
+<< 
+=================== cli = 59, id = 902012, step = 758 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 74, id = 902018, step = 759 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 224, id = 902005, step = 760 type = RD ===================
+<< 902005
+<< 
+>> Food: 1 booked
+>> Concert: 2 booked
+>> Electronics: 3 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 127, id = 902015, step = 761 type = RD ===================
+<< Ctrl+C
+=================== cli = 299, id = 902011, step = 762 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 119, id = 902013, step = 763 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 269, id = 902019, step = 764 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 291, id = 902018, step = 765 type = WR ===================
+<< 0 0 0
+<< 
+>> Bookings for user 902018 are updated, the new booking state is:
+>> Food: 1 booked
+>> Concert: 4 booked
+>> Electronics: 4 booked
+>> 
+=================== cli = 171, id = 902001, step = 766 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 8, id = 902005, step = 767 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 148, id = 902014, step = 768 type = RD ===================
+<< 902014
+<< 
+>> Food: 2 booked
+>> Concert: 1 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 421, id = 902014, step = 769 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 400, id = 902010, step = 770 type = WR ===================
+<< Ctrl+C
+=================== cli = 347, id = 902010, step = 771 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 238, id = 902008, step = 772 type = WR ===================
+<< Ctrl+C
+=================== cli = 471, id = 902012, step = 773 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 146, id = 902005, step = 774 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 85, id = 902015, step = 775 type = RD ===================
+<< 902015
+<< 
+>> Locked.
+>> 
+=================== cli = 330, id = 902001, step = 776 type = RD ===================
+<< Ctrl+C
+=================== cli = 33, id = 902018, step = 777 type = WR ===================
+<< Ctrl+C
+=================== cli = 191, id = 902014, step = 778 type = RD ===================
+<< Exit
+<< 
+=================== cli = 2, id = 902005, step = 779 type = WR ===================
+<< 902005
+<< 
+>> Locked.
+>> 
+=================== cli = 180, id = 902008, step = 780 type = WR ===================
+<< 902008
+<< 
+>> Food: 2 booked
+>> Concert: 1 booked
+>> Electronics: 2 booked
+>> 
+>> Please input your booking command. (Food, Concert, Electronics. Positive/negative value increases/decreases the booking amount.):
+>> 
+=================== cli = 194, id = 902017, step = 781 type = WR ===================
+<< 902017
+<< 
+>> Locked.
+>> 
+=================== cli = 7, id = 902005, step = 782 type = WR ===================
+<< 902005
+<< 
+>> Locked.
+>> 
+=================== cli = 282, id = 902020, step = 783 type = RD ===================
+<< Exit
+<< 
+=================== cli = 40, id = 902005, step = 784 type = RD ===================
+<< 902005
+<< 
+>> Food: 1 booked
+>> Concert: 2 booked
+>> Electronics: 3 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 288, id = 902020, step = 785 type = RD ===================
+<< Exit
+<< 
+=================== cli = 243, id = 902007, step = 786 type = RD ===================
+<< 902007
+<< 
+>> Locked.
+>> 
+=================== cli = 157, id = 902009, step = 787 type = RD ===================
+<< 902009
+<< 
+>> Food: 1 booked
+>> Concert: 2 booked
+>> Electronics: 0 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 115, id = 902007, step = 788 type = WR ===================
+<< 902007
+<< 
+>> Locked.
+>> 
+=================== cli = 61, id = 902012, step = 789 type = WR ===================
+<< Ctrl+C
+=================== cli = 266, id = 902019, step = 790 type = WR ===================
+<< Ctrl+C
+=================== cli = 105, id = 902008, step = 791 type = WR ===================
+<< 902008
+<< 
+>> Locked.
+>> 
+=================== cli = 285, id = 902006, step = 792 type = WR ===================
+<< 902006
+<< 
+>> Locked.
+>> 
+=================== cli = 419, id = 902008, step = 793 type = WR ===================
+<< 902008
+<< 
+>> Locked.
+>> 
+=================== cli = 92, id = 902011, step = 794 type = RD ===================
+<< 902011
+<< 
+>> Food: 2 booked
+>> Concert: 3 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 422, id = 902014, step = 795 type = RD ===================
+<< 902014
+<< 
+>> Food: 2 booked
+>> Concert: 1 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 351, id = 902010, step = 796 type = RD ===================
+<< 902010
+<< 
+>> Locked.
+>> 
+=================== cli = 453, id = 902008, step = 797 type = RD ===================
+<< 902008
+<< 
+>> Locked.
+>> 
+=================== cli = 428, id = 902014, step = 798 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 216, id = 902017, step = 799 type = RD ===================
+<< Exit
+<< 
+=================== cli = 486, id = 902013, step = 800 type = RD ===================
+<< Exit
+<< 
+=================== cli = 59, id = 902012, step = 801 type = WR ===================
+<< 902012
+<< 
+>> Food: 3 booked
+>> Concert: 2 booked
+>> Electronics: 2 booked
+>> 
+>> Please input your booking command. (Food, Concert, Electronics. Positive/negative value increases/decreases the booking amount.):
+>> 
+=================== cli = 208, id = 902014, step = 802 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 354, id = 902015, step = 803 type = WR ===================
+<< 902015
+<< 
+>> Locked.
+>> 
+=================== cli = 301, id = 902005, step = 804 type = RD ===================
+<< 902005
+<< 
+>> Food: 1 booked
+>> Concert: 2 booked
+>> Electronics: 3 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 111, id = 902006, step = 805 type = WR ===================
+<< 902006
+<< 
+>> Locked.
+>> 
+=================== cli = 70, id = 902002, step = 806 type = RD ===================
+<< Exit
+<< 
+=================== cli = 69, id = 902012, step = 807 type = WR ===================
+<< 902012
+<< 
+>> Locked.
+>> 
+=================== cli = 44, id = 902013, step = 808 type = WR ===================
+<< Ctrl+C
+=================== cli = 429, id = 902011, step = 809 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 185, id = 902014, step = 810 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 412, id = 902010, step = 811 type = WR ===================
+<< 0 0 0
+<< 
+>> Bookings for user 902010 are updated, the new booking state is:
+>> Food: 0 booked
+>> Concert: 2 booked
+>> Electronics: 1 booked
+>> 
+=================== cli = 484, id = 902020, step = 812 type = RD ===================
+<< 902020
+<< 
+>> Food: 3 booked
+>> Concert: 2 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 295, id = 902017, step = 813 type = WR ===================
+<< 902017
+<< 
+>> Food: 4 booked
+>> Concert: 0 booked
+>> Electronics: 1 booked
+>> 
+>> Please input your booking command. (Food, Concert, Electronics. Positive/negative value increases/decreases the booking amount.):
+>> 
+=================== cli = 328, id = 902017, step = 814 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 226, id = 902009, step = 815 type = RD ===================
+<< 902009
+<< 
+>> Food: 1 booked
+>> Concert: 2 booked
+>> Electronics: 0 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 15, id = 902004, step = 816 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 96, id = 902013, step = 817 type = RD ===================
+<< 902013
+<< 
+>> Food: 1 booked
+>> Concert: 0 booked
+>> Electronics: 3 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 225, id = 902007, step = 818 type = RD ===================
+<< 902007
+<< 
+>> Locked.
+>> 
+=================== cli = 308, id = 902013, step = 819 type = RD ===================
+<< Ctrl+C
+=================== cli = 399, id = 902008, step = 820 type = RD ===================
+<< Ctrl+C
+=================== cli = 172, id = 902018, step = 821 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 390, id = 902015, step = 822 type = RD ===================
+<< 902015
+<< 
+>> Locked.
+>> 
+=================== cli = 347, id = 902010, step = 823 type = RD ===================
+<< Ctrl+C
+=================== cli = 208, id = 902014, step = 824 type = WR ===================
+<< Ctrl+C
+=================== cli = 106, id = 902003, step = 825 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 25, id = 902015, step = 826 type = WR ===================
+<< Ctrl+C
+=================== cli = 108, id = 902020, step = 827 type = RD ===================
+<< Exit
+<< 
+=================== cli = 235, id = 902010, step = 828 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 43, id = 902004, step = 829 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 131, id = 902012, step = 830 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 276, id = 902009, step = 831 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 357, id = 902009, step = 832 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 192, id = 902005, step = 833 type = RD ===================
+<< Exit
+<< 
+=================== cli = 471, id = 902012, step = 834 type = RD ===================
+<< 902012
+<< 
+>> Locked.
+>> 
+=================== cli = 294, id = 902001, step = 835 type = RD ===================
+<< Ctrl+C
+=================== cli = 435, id = 902018, step = 836 type = WR ===================
+<< 902018
+<< 
+>> Food: 1 booked
+>> Concert: 4 booked
+>> Electronics: 4 booked
+>> 
+>> Please input your booking command. (Food, Concert, Electronics. Positive/negative value increases/decreases the booking amount.):
+>> 
+=================== cli = 495, id = 902017, step = 837 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 73, id = 902009, step = 838 type = RD ===================
+<< 902009
+<< 
+>> Food: 1 booked
+>> Concert: 2 booked
+>> Electronics: 0 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 67, id = 902020, step = 839 type = WR ===================
+<< 902020
+<< 
+>> Locked.
+>> 
+=================== cli = 307, id = 902004, step = 840 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 20, id = 902012, step = 841 type = RD ===================
+<< 902012
+<< 
+>> Locked.
+>> 
+=================== cli = 146, id = 902005, step = 842 type = WR ===================
+<< 902005
+<< 
+>> Locked.
+>> 
+=================== cli = 377, id = 902006, step = 843 type = WR ===================
+<< 902006
+<< 
+>> Locked.
+>> 
+=================== cli = 480, id = 902002, step = 844 type = WR ===================
+<< 902002
+<< 
+>> Locked.
+>> 
+=================== cli = 466, id = 902009, step = 845 type = WR ===================
+<< 902009
+<< 
+>> Locked.
+>> 
+=================== cli = 112, id = 902019, step = 846 type = WR ===================
+<< 902019
+<< 
+>> Locked.
+>> 
+=================== cli = 171, id = 902001, step = 847 type = WR ===================
+<< Ctrl+C
+=================== cli = 23, id = 902003, step = 848 type = RD ===================
+<< 902003
+<< 
+>> Food: 2 booked
+>> Concert: 4 booked
+>> Electronics: 4 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 120, id = 902005, step = 849 type = WR ===================
+<< Ctrl+C
+=================== cli = 210, id = 902014, step = 850 type = RD ===================
+<< Ctrl+C
+=================== cli = 403, id = 902015, step = 851 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 103, id = 902016, step = 852 type = WR ===================
+<< 902016
+<< 
+>> Locked.
+>> 
+=================== cli = 79, id = 902013, step = 853 type = RD ===================
+<< Ctrl+C
+=================== cli = 460, id = 902018, step = 854 type = WR ===================
+<< 902018
+<< 
+>> Locked.
+>> 
+=================== cli = 189, id = 902012, step = 855 type = RD ===================
+<< 902012
+<< 
+>> Locked.
+>> 
+=================== cli = 113, id = 902016, step = 856 type = RD ===================
+<< Exit
+<< 
+=================== cli = 135, id = 902012, step = 857 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 180, id = 902008, step = 858 type = WR ===================
+<< Ctrl+C
+=================== cli = 383, id = 902006, step = 859 type = WR ===================
+<< Ctrl+C
+=================== cli = 214, id = 902002, step = 860 type = WR ===================
+<< 902002
+<< 
+>> Locked.
+>> 
+=================== cli = 467, id = 902005, step = 861 type = RD ===================
+<< 902005
+<< 
+>> Food: 1 booked
+>> Concert: 2 booked
+>> Electronics: 3 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 81, id = 902005, step = 862 type = RD ===================
+<< 902005
+<< 
+>> Food: 1 booked
+>> Concert: 2 booked
+>> Electronics: 3 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 464, id = 902015, step = 863 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 29, id = 902001, step = 864 type = WR ===================
+<< Ctrl+C
+=================== cli = 101, id = 902001, step = 865 type = WR ===================
+<< 902001
+<< 
+>> Locked.
+>> 
+=================== cli = 233, id = 902002, step = 866 type = WR ===================
+<< 902002
+<< 
+>> Locked.
+>> 
+=================== cli = 46, id = 902019, step = 867 type = RD ===================
+<< 902019
+<< 
+>> Food: 1 booked
+>> Concert: 2 booked
+>> Electronics: 2 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 417, id = 902014, step = 868 type = RD ===================
+<< Ctrl+C
+=================== cli = 205, id = 902019, step = 869 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 0, id = 902008, step = 870 type = RD ===================
+<< 902008
+<< 
+>> Food: 2 booked
+>> Concert: 1 booked
+>> Electronics: 2 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 452, id = 902015, step = 871 type = WR ===================
+<< 902015
+<< 
+>> Locked.
+>> 
+=================== cli = 467, id = 902005, step = 872 type = RD ===================
+<< Exit
+<< 
+=================== cli = 484, id = 902020, step = 873 type = RD ===================
+<< Exit
+<< 
+=================== cli = 128, id = 902008, step = 874 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 8, id = 902005, step = 875 type = RD ===================
+<< 902005
+<< 
+>> Food: 1 booked
+>> Concert: 2 booked
+>> Electronics: 3 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 426, id = 902017, step = 876 type = RD ===================
+<< 902017
+<< 
+>> Locked.
+>> 
+=================== cli = 235, id = 902010, step = 877 type = RD ===================
+<< Ctrl+C
+=================== cli = 200, id = 902013, step = 878 type = WR ===================
+<< 902013
+<< 
+>> Locked.
+>> 
+=================== cli = 224, id = 902005, step = 879 type = RD ===================
+<< Exit
+<< 
+=================== cli = 164, id = 902006, step = 880 type = RD ===================
+<< 902006
+<< 
+>> Locked.
+>> 
+=================== cli = 227, id = 902012, step = 881 type = RD ===================
+<< Ctrl+C
+=================== cli = 444, id = 902006, step = 882 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 209, id = 902011, step = 883 type = RD ===================
+<< Exit
+<< 
+=================== cli = 24, id = 902014, step = 884 type = WR ===================
+<< 902014
+<< 
+>> Locked.
+>> 
+=================== cli = 265, id = 902014, step = 885 type = WR ===================
+<< 902014
+<< 
+>> Locked.
+>> 
+=================== cli = 251, id = 902004, step = 886 type = RD ===================
+<< 902004
+<< 
+>> Food: 4 booked
+>> Concert: 1 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 16, id = 902018, step = 887 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 175, id = 902001, step = 888 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 133, id = 902007, step = 889 type = WR ===================
+<< 0 0 0
+<< 
+>> Bookings for user 902007 are updated, the new booking state is:
+>> Food: 0 booked
+>> Concert: 3 booked
+>> Electronics: 2 booked
+>> 
+=================== cli = 332, id = 902015, step = 890 type = WR ===================
+<< Ctrl+C
+=================== cli = 267, id = 902005, step = 891 type = WR ===================
+<< 902005
+<< 
+>> Locked.
+>> 
+=================== cli = 236, id = 902014, step = 892 type = RD ===================
+<< Ctrl+C
+=================== cli = 128, id = 902008, step = 893 type = RD ===================
+<< 902008
+<< 
+>> Food: 2 booked
+>> Concert: 1 booked
+>> Electronics: 2 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 311, id = 902020, step = 894 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 251, id = 902004, step = 895 type = RD ===================
+<< Ctrl+C
+=================== cli = 323, id = 902013, step = 896 type = WR ===================
+<< Ctrl+C
+=================== cli = 15, id = 902004, step = 897 type = RD ===================
+<< 902004
+<< 
+>> Food: 4 booked
+>> Concert: 1 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 477, id = 902003, step = 898 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 128, id = 902008, step = 899 type = RD ===================
+<< Exit
+<< 
+=================== cli = 19, id = 902017, step = 900 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 42, id = 902016, step = 901 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 403, id = 902015, step = 902 type = RD ===================
+<< 902015
+<< 
+>> Locked.
+>> 
+=================== cli = 66, id = 902014, step = 903 type = WR ===================
+<< 902014
+<< 
+>> Locked.
+>> 
+=================== cli = 404, id = 902019, step = 904 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 0, id = 902008, step = 905 type = RD ===================
+<< Exit
+<< 
+=================== cli = 357, id = 902009, step = 906 type = WR ===================
+<< Ctrl+C
+=================== cli = 423, id = 902007, step = 907 type = WR ===================
+<< 902007
+<< 
+>> Food: 0 booked
+>> Concert: 3 booked
+>> Electronics: 2 booked
+>> 
+>> Please input your booking command. (Food, Concert, Electronics. Positive/negative value increases/decreases the booking amount.):
+>> 
+=================== cli = 281, id = 902019, step = 908 type = RD ===================
+<< Exit
+<< 
+=================== cli = 277, id = 902019, step = 909 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 190, id = 902012, step = 910 type = RD ===================
+<< 902012
+<< 
+>> Locked.
+>> 
+=================== cli = 435, id = 902018, step = 911 type = WR ===================
+<< 0 0 0
+<< 
+>> Bookings for user 902018 are updated, the new booking state is:
+>> Food: 1 booked
+>> Concert: 4 booked
+>> Electronics: 4 booked
+>> 
+=================== cli = 199, id = 902011, step = 912 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 160, id = 902002, step = 913 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 428, id = 902014, step = 914 type = RD ===================
+<< 902014
+<< 
+>> Food: 2 booked
+>> Concert: 1 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 23, id = 902003, step = 915 type = RD ===================
+<< Exit
+<< 
+=================== cli = 230, id = 902020, step = 916 type = WR ===================
+<< 902020
+<< 
+>> Locked.
+>> 
+=================== cli = 450, id = 902011, step = 917 type = RD ===================
+<< Exit
+<< 
+=================== cli = 429, id = 902011, step = 918 type = WR ===================
+<< Ctrl+C
+=================== cli = 41, id = 902006, step = 919 type = WR ===================
+<< 902006
+<< 
+>> Locked.
+>> 
+=================== cli = 254, id = 902008, step = 920 type = RD ===================
+<< 902008
+<< 
+>> Food: 2 booked
+>> Concert: 1 booked
+>> Electronics: 2 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 301, id = 902005, step = 921 type = RD ===================
+<< Exit
+<< 
+=================== cli = 28, id = 902001, step = 922 type = WR ===================
+<< 902001
+<< 
+>> Locked.
+>> 
+=================== cli = 495, id = 902017, step = 923 type = RD ===================
+<< 902017
+<< 
+>> Locked.
+>> 
+=================== cli = 114, id = 902007, step = 924 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 96, id = 902013, step = 925 type = RD ===================
+<< Exit
+<< 
+=================== cli = 150, id = 902019, step = 926 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 175, id = 902001, step = 927 type = WR ===================
+<< 902001
+<< 
+>> Locked.
+>> 
+=================== cli = 139, id = 902012, step = 928 type = RD ===================
+<< 902012
+<< 
+>> Locked.
+>> 
+=================== cli = 125, id = 902017, step = 929 type = RD ===================
+<< Ctrl+C
+=================== cli = 202, id = 902015, step = 930 type = WR ===================
+<< 902015
+<< 
+>> Locked.
+>> 
+=================== cli = 248, id = 902004, step = 931 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 402, id = 902018, step = 932 type = RD ===================
+<< 902018
+<< 
+>> Food: 1 booked
+>> Concert: 4 booked
+>> Electronics: 4 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 402, id = 902018, step = 933 type = RD ===================
+<< Exit
+<< 
+=================== cli = 157, id = 902009, step = 934 type = RD ===================
+<< Ctrl+C
+=================== cli = 246, id = 902014, step = 935 type = WR ===================
+<< 902014
+<< 
+>> Locked.
+>> 
+=================== cli = 18, id = 902014, step = 936 type = RD ===================
+<< 902014
+<< 
+>> Food: 2 booked
+>> Concert: 1 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 122, id = 902002, step = 937 type = WR ===================
+<< Ctrl+C
+=================== cli = 56, id = 902008, step = 938 type = RD ===================
+<< 902008
+<< 
+>> Food: 2 booked
+>> Concert: 1 booked
+>> Electronics: 2 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 352, id = 902015, step = 939 type = WR ===================
+<< 902015
+<< 
+>> Locked.
+>> 
+=================== cli = 277, id = 902019, step = 940 type = RD ===================
+<< 902019
+<< 
+>> Food: 1 booked
+>> Concert: 2 booked
+>> Electronics: 2 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 368, id = 902015, step = 941 type = WR ===================
+<< Ctrl+C
+=================== cli = 404, id = 902019, step = 942 type = WR ===================
+<< Ctrl+C
+=================== cli = 366, id = 902004, step = 943 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 247, id = 902019, step = 944 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 17, id = 902009, step = 945 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 106, id = 902003, step = 946 type = WR ===================
+<< 902003
+<< 
+>> Food: 2 booked
+>> Concert: 4 booked
+>> Electronics: 4 booked
+>> 
+>> Please input your booking command. (Food, Concert, Electronics. Positive/negative value increases/decreases the booking amount.):
+>> 
+=================== cli = 335, id = 902016, step = 947 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 340, id = 902009, step = 948 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 182, id = 902007, step = 949 type = RD ===================
+<< Ctrl+C
+=================== cli = 14, id = 902019, step = 950 type = RD ===================
+<< Exit
+<< 
+=================== cli = 433, id = 902001, step = 951 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 58, id = 902009, step = 952 type = RD ===================
+<< Exit
+<< 
+=================== cli = 367, id = 902005, step = 953 type = RD ===================
+<< Ctrl+C
+=================== cli = 42, id = 902016, step = 954 type = WR ===================
+<< 902016
+<< 
+>> Locked.
+>> 
+=================== cli = 360, id = 902012, step = 955 type = RD ===================
+<< 902012
+<< 
+>> Locked.
+>> 
+=================== cli = 316, id = 902006, step = 956 type = WR ===================
+<< Ctrl+C
+=================== cli = 318, id = 902006, step = 957 type = WR ===================
+<< 0 0 0
+<< 
+>> Bookings for user 902006 are updated, the new booking state is:
+>> Food: 0 booked
+>> Concert: 0 booked
+>> Electronics: 0 booked
+>> 
+=================== cli = 320, id = 902009, step = 958 type = WR ===================
+<< 902009
+<< 
+>> Locked.
+>> 
+=================== cli = 119, id = 902013, step = 959 type = RD ===================
+<< 902013
+<< 
+>> Food: 1 booked
+>> Concert: 0 booked
+>> Electronics: 3 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 185, id = 902014, step = 960 type = RD ===================
+<< 902014
+<< 
+>> Food: 2 booked
+>> Concert: 1 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 252, id = 902005, step = 961 type = RD ===================
+<< Ctrl+C
+=================== cli = 16, id = 902018, step = 962 type = WR ===================
+<< 902018
+<< 
+>> Food: 1 booked
+>> Concert: 4 booked
+>> Electronics: 4 booked
+>> 
+>> Please input your booking command. (Food, Concert, Electronics. Positive/negative value increases/decreases the booking amount.):
+>> 
+=================== cli = 132, id = 902004, step = 963 type = WR ===================
+<< Ctrl+C
+=================== cli = 100, id = 902002, step = 964 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 422, id = 902014, step = 965 type = RD ===================
+<< Ctrl+C
+=================== cli = 76, id = 902011, step = 966 type = RD ===================
+<< 902011
+<< 
+>> Food: 2 booked
+>> Concert: 3 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 441, id = 902018, step = 967 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 223, id = 902004, step = 968 type = RD ===================
+<< Exit
+<< 
+=================== cli = 39, id = 902001, step = 969 type = RD ===================
+<< Exit
+<< 
+=================== cli = 99, id = 902015, step = 970 type = WR ===================
+<< Ctrl+C
+=================== cli = 295, id = 902017, step = 971 type = WR ===================
+<< Ctrl+C
+=================== cli = 86, id = 902019, step = 972 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 499, id = 902009, step = 973 type = RD ===================
+<< 902009
+<< 
+>> Food: 1 booked
+>> Concert: 2 booked
+>> Electronics: 0 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 154, id = 902001, step = 974 type = WR ===================
+<< 902001
+<< 
+>> Locked.
+>> 
+=================== cli = 151, id = 902014, step = 975 type = RD ===================
+<< Ctrl+C
+=================== cli = 73, id = 902009, step = 976 type = RD ===================
+<< Exit
+<< 
+=================== cli = 82, id = 902003, step = 977 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 396, id = 902017, step = 978 type = WR ===================
+<< 902017
+<< 
+>> Food: 4 booked
+>> Concert: 0 booked
+>> Electronics: 1 booked
+>> 
+>> Please input your booking command. (Food, Concert, Electronics. Positive/negative value increases/decreases the booking amount.):
+>> 
+=================== cli = 181, id = 902002, step = 979 type = RD ===================
+<< Ctrl+C
+=================== cli = 276, id = 902009, step = 980 type = WR ===================
+<< 902009
+<< 
+>> Locked.
+>> 
+=================== cli = 300, id = 902013, step = 981 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 76, id = 902011, step = 982 type = RD ===================
+<< Ctrl+C
+=================== cli = 177, id = 902004, step = 983 type = WR ===================
+<< 902004
+<< 
+>> Locked.
+>> 
+=================== cli = 461, id = 902020, step = 984 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 481, id = 902009, step = 985 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 86, id = 902019, step = 986 type = RD ===================
+<< 902019
+<< 
+>> Food: 1 booked
+>> Concert: 2 booked
+>> Electronics: 2 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 348, id = 902003, step = 987 type = RD ===================
+<< Ctrl+C
+=================== cli = 94, id = 902005, step = 988 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 199, id = 902011, step = 989 type = RD ===================
+<< 902011
+<< 
+>> Food: 2 booked
+>> Concert: 3 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 461, id = 902020, step = 990 type = WR ===================
+<< 902020
+<< 
+>> Locked.
+>> 
+=================== cli = 145, id = 902004, step = 991 type = RD ===================
+<< Ctrl+C
+=================== cli = 496, id = 902012, step = 992 type = WR ===================
+<< 902012
+<< 
+>> Locked.
+>> 
+=================== cli = 186, id = 902003, step = 993 type = RD ===================
+<< Ctrl+C
+=================== cli = 52, id = 902003, step = 994 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 131, id = 902012, step = 995 type = RD ===================
+<< 902012
+<< 
+>> Locked.
+>> 
+=================== cli = 378, id = 902012, step = 996 type = RD ===================
+<< 902012
+<< 
+>> Locked.
+>> 
+=================== cli = 454, id = 902009, step = 997 type = RD ===================
+<< Exit
+<< 
+=================== cli = 148, id = 902014, step = 998 type = RD ===================
+<< Ctrl+C
+=================== cli = 247, id = 902019, step = 999 type = WR ===================
+<< 902019
+<< 
+>> Locked.
+>> 
+=================== cli = 81, id = 902005, step = 1000 type = RD ===================
+<< Exit
+<< 
+=================== cli = 493, id = 902020, step = 1001 type = WR ===================
+<< 902020
+<< 
+>> Locked.
+>> 
+=================== cli = 5, id = 902014, step = 1002 type = WR ===================
+<< 902014
+<< 
+>> Locked.
+>> 
+=================== cli = 300, id = 902013, step = 1003 type = WR ===================
+<< 902013
+<< 
+>> Locked.
+>> 
+=================== cli = 424, id = 902020, step = 1004 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 407, id = 902012, step = 1005 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 335, id = 902016, step = 1006 type = WR ===================
+<< 902016
+<< 
+>> Locked.
+>> 
+=================== cli = 470, id = 902005, step = 1007 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 130, id = 902015, step = 1008 type = RD ===================
+<< Ctrl+C
+=================== cli = 336, id = 902018, step = 1009 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 4, id = 902020, step = 1010 type = RD ===================
+<< Ctrl+C
+=================== cli = 167, id = 902004, step = 1011 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 136, id = 902008, step = 1012 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 167, id = 902004, step = 1013 type = RD ===================
+<< 902004
+<< 
+>> Food: 4 booked
+>> Concert: 1 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 172, id = 902018, step = 1014 type = WR ===================
+<< 902018
+<< 
+>> Locked.
+>> 
+=================== cli = 277, id = 902019, step = 1015 type = RD ===================
+<< Exit
+<< 
+=================== cli = 338, id = 902019, step = 1016 type = WR ===================
+<< Ctrl+C
+=================== cli = 499, id = 902009, step = 1017 type = RD ===================
+<< Exit
+<< 
+=================== cli = 135, id = 902012, step = 1018 type = WR ===================
+<< 902012
+<< 
+>> Locked.
+>> 
+=================== cli = 43, id = 902004, step = 1019 type = RD ===================
+<< 902004
+<< 
+>> Food: 4 booked
+>> Concert: 1 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 126, id = 902014, step = 1020 type = WR ===================
+<< 902014
+<< 
+>> Locked.
+>> 
+=================== cli = 15, id = 902004, step = 1021 type = RD ===================
+<< Exit
+<< 
+=================== cli = 307, id = 902004, step = 1022 type = RD ===================
+<< Ctrl+C
+=================== cli = 477, id = 902003, step = 1023 type = RD ===================
+<< 902003
+<< 
+>> Locked.
+>> 
+=================== cli = 199, id = 902011, step = 1024 type = RD ===================
+<< Exit
+<< 
+=================== cli = 119, id = 902013, step = 1025 type = RD ===================
+<< Exit
+<< 
+=================== cli = 49, id = 902006, step = 1026 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 150, id = 902019, step = 1027 type = RD ===================
+<< 902019
+<< 
+>> Food: 1 booked
+>> Concert: 2 booked
+>> Electronics: 2 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 179, id = 902005, step = 1028 type = WR ===================
+<< Ctrl+C
+=================== cli = 260, id = 902007, step = 1029 type = RD ===================
+<< Ctrl+C
+=================== cli = 481, id = 902009, step = 1030 type = WR ===================
+<< 902009
+<< 
+>> Locked.
+>> 
+=================== cli = 59, id = 902012, step = 1031 type = WR ===================
+<< Ctrl+C
+=================== cli = 237, id = 902004, step = 1032 type = RD ===================
+<< 902004
+<< 
+>> Food: 4 booked
+>> Concert: 1 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 92, id = 902011, step = 1033 type = RD ===================
+<< Ctrl+C
+=================== cli = 106, id = 902003, step = 1034 type = WR ===================
+<< 0 0 0
+<< 
+>> Bookings for user 902003 are updated, the new booking state is:
+>> Food: 2 booked
+>> Concert: 4 booked
+>> Electronics: 4 booked
+>> 
+=================== cli = 74, id = 902018, step = 1035 type = RD ===================
+<< Ctrl+C
+=================== cli = 226, id = 902009, step = 1036 type = RD ===================
+<< Exit
+<< 
+=================== cli = 489, id = 902001, step = 1037 type = WR ===================
+<< Ctrl+C
+=================== cli = 3, id = 902011, step = 1038 type = RD ===================
+<< 902011
+<< 
+>> Food: 2 booked
+>> Concert: 3 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 340, id = 902009, step = 1039 type = RD ===================
+<< 902009
+<< 
+>> Food: 1 booked
+>> Concert: 2 booked
+>> Electronics: 0 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 258, id = 902003, step = 1040 type = RD ===================
+<< 902003
+<< 
+>> Food: 2 booked
+>> Concert: 4 booked
+>> Electronics: 4 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 270, id = 902006, step = 1041 type = RD ===================
+<< 902006
+<< 
+>> Food: 0 booked
+>> Concert: 0 booked
+>> Electronics: 0 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 407, id = 902012, step = 1042 type = RD ===================
+<< Ctrl+C
+=================== cli = 228, id = 902002, step = 1043 type = RD ===================
+<< Ctrl+C
+=================== cli = 269, id = 902019, step = 1044 type = WR ===================
+<< 902019
+<< 
+>> Locked.
+>> 
+=================== cli = 136, id = 902008, step = 1045 type = WR ===================
+<< 902008
+<< 
+>> Locked.
+>> 
+=================== cli = 270, id = 902006, step = 1046 type = RD ===================
+<< Ctrl+C
+=================== cli = 254, id = 902008, step = 1047 type = RD ===================
+<< Exit
+<< 
+=================== cli = 405, id = 902005, step = 1048 type = RD ===================
+<< Exit
+<< 
+=================== cli = 185, id = 902014, step = 1049 type = RD ===================
+<< Exit
+<< 
+=================== cli = 8, id = 902005, step = 1050 type = RD ===================
+<< Exit
+<< 
+=================== cli = 213, id = 902009, step = 1051 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 284, id = 902015, step = 1052 type = WR ===================
+<< 902015
+<< 
+>> Food: 3 booked
+>> Concert: 2 booked
+>> Electronics: 3 booked
+>> 
+>> Please input your booking command. (Food, Concert, Electronics. Positive/negative value increases/decreases the booking amount.):
+>> 
+=================== cli = 396, id = 902017, step = 1053 type = WR ===================
+<< 0 0 0
+<< 
+>> Bookings for user 902017 are updated, the new booking state is:
+>> Food: 4 booked
+>> Concert: 0 booked
+>> Electronics: 1 booked
+>> 
+=================== cli = 441, id = 902018, step = 1054 type = WR ===================
+<< Ctrl+C
+=================== cli = 40, id = 902005, step = 1055 type = RD ===================
+<< Exit
+<< 
+=================== cli = 321, id = 902010, step = 1056 type = RD ===================
+<< 902010
+<< 
+>> Food: 0 booked
+>> Concert: 2 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 46, id = 902019, step = 1057 type = RD ===================
+<< Exit
+<< 
+=================== cli = 150, id = 902019, step = 1058 type = RD ===================
+<< Exit
+<< 
+=================== cli = 433, id = 902001, step = 1059 type = RD ===================
+<< 902001
+<< 
+>> Food: 3 booked
+>> Concert: 0 booked
+>> Electronics: 3 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 397, id = 902006, step = 1060 type = WR ===================
+<< 902006
+<< 
+>> Food: 0 booked
+>> Concert: 0 booked
+>> Electronics: 0 booked
+>> 
+>> Please input your booking command. (Food, Concert, Electronics. Positive/negative value increases/decreases the booking amount.):
+>> 
+=================== cli = 292, id = 902020, step = 1061 type = WR ===================
+<< 902020
+<< 
+>> Food: 3 booked
+>> Concert: 2 booked
+>> Electronics: 1 booked
+>> 
+>> Please input your booking command. (Food, Concert, Electronics. Positive/negative value increases/decreases the booking amount.):
+>> 
+=================== cli = 279, id = 902007, step = 1062 type = WR ===================
+<< 902007
+<< 
+>> Locked.
+>> 
+=================== cli = 487, id = 902006, step = 1063 type = RD ===================
+<< 902006
+<< 
+>> Locked.
+>> 
+=================== cli = 340, id = 902009, step = 1064 type = RD ===================
+<< Exit
+<< 
+=================== cli = 373, id = 902009, step = 1065 type = RD ===================
+<< Exit
+<< 
+=================== cli = 329, id = 902005, step = 1066 type = RD ===================
+<< 902005
+<< 
+>> Food: 1 booked
+>> Concert: 2 booked
+>> Electronics: 3 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 18, id = 902014, step = 1067 type = RD ===================
+<< Exit
+<< 
+=================== cli = 448, id = 902016, step = 1068 type = RD ===================
+<< Exit
+<< 
+=================== cli = 423, id = 902007, step = 1069 type = WR ===================
+<< 0 0 0
+<< 
+>> Bookings for user 902007 are updated, the new booking state is:
+>> Food: 0 booked
+>> Concert: 3 booked
+>> Electronics: 2 booked
+>> 
+=================== cli = 94, id = 902005, step = 1070 type = RD ===================
+<< Ctrl+C
+=================== cli = 370, id = 902012, step = 1071 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 414, id = 902005, step = 1072 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 498, id = 902001, step = 1073 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 16, id = 902018, step = 1074 type = WR ===================
+<< 0 0 0
+<< 
+>> Bookings for user 902018 are updated, the new booking state is:
+>> Food: 1 booked
+>> Concert: 4 booked
+>> Electronics: 4 booked
+>> 
+=================== cli = 51, id = 902008, step = 1075 type = RD ===================
+<< Ctrl+C
+=================== cli = 328, id = 902017, step = 1076 type = RD ===================
+<< Ctrl+C
+=================== cli = 292, id = 902020, step = 1077 type = WR ===================
+<< 0 0 0
+<< 
+>> Bookings for user 902020 are updated, the new booking state is:
+>> Food: 3 booked
+>> Concert: 2 booked
+>> Electronics: 1 booked
+>> 
+=================== cli = 123, id = 902002, step = 1078 type = WR ===================
+<< 902002
+<< 
+>> Locked.
+>> 
+=================== cli = 459, id = 902005, step = 1079 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 321, id = 902010, step = 1080 type = RD ===================
+<< Exit
+<< 
+=================== cli = 56, id = 902008, step = 1081 type = RD ===================
+<< Ctrl+C
+=================== cli = 215, id = 902002, step = 1082 type = RD ===================
+<< Exit
+<< 
+=================== cli = 470, id = 902005, step = 1083 type = WR ===================
+<< 902005
+<< 
+>> Locked.
+>> 
+=================== cli = 421, id = 902014, step = 1084 type = RD ===================
+<< Ctrl+C
+=================== cli = 152, id = 902015, step = 1085 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 336, id = 902018, step = 1086 type = RD ===================
+<< 902018
+<< 
+>> Food: 1 booked
+>> Concert: 4 booked
+>> Electronics: 4 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 114, id = 902007, step = 1087 type = WR ===================
+<< 902007
+<< 
+>> Food: 0 booked
+>> Concert: 3 booked
+>> Electronics: 2 booked
+>> 
+>> Please input your booking command. (Food, Concert, Electronics. Positive/negative value increases/decreases the booking amount.):
+>> 
+=================== cli = 420, id = 902002, step = 1088 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 428, id = 902014, step = 1089 type = RD ===================
+<< Exit
+<< 
+=================== cli = 370, id = 902012, step = 1090 type = RD ===================
+<< Ctrl+C
+=================== cli = 388, id = 902019, step = 1091 type = RD ===================
+<< 902019
+<< 
+>> Food: 1 booked
+>> Concert: 2 booked
+>> Electronics: 2 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 160, id = 902002, step = 1092 type = RD ===================
+<< 902002
+<< 
+>> Food: 2 booked
+>> Concert: 4 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 86, id = 902019, step = 1093 type = RD ===================
+<< Exit
+<< 
+=================== cli = 49, id = 902006, step = 1094 type = RD ===================
+<< 902006
+<< 
+>> Locked.
+>> 
+=================== cli = 433, id = 902001, step = 1095 type = RD ===================
+<< Exit
+<< 
+=================== cli = 451, id = 902001, step = 1096 type = RD ===================
+<< Ctrl+C
+=================== cli = 388, id = 902019, step = 1097 type = RD ===================
+<< Exit
+<< 
+=================== cli = 444, id = 902006, step = 1098 type = WR ===================
+<< Ctrl+C
+=================== cli = 385, id = 902005, step = 1099 type = RD ===================
+<< Ctrl+C
+=================== cli = 178, id = 902019, step = 1100 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 462, id = 902007, step = 1101 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 397, id = 902006, step = 1102 type = WR ===================
+<< Ctrl+C
+=================== cli = 408, id = 902004, step = 1103 type = WR ===================
+<< Ctrl+C
+=================== cli = 258, id = 902003, step = 1104 type = RD ===================
+<< Ctrl+C
+=================== cli = 100, id = 902002, step = 1105 type = RD ===================
+<< 902002
+<< 
+>> Food: 2 booked
+>> Concert: 4 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 283, id = 902014, step = 1106 type = WR ===================
+<< 902014
+<< 
+>> Food: 2 booked
+>> Concert: 1 booked
+>> Electronics: 1 booked
+>> 
+>> Please input your booking command. (Food, Concert, Electronics. Positive/negative value increases/decreases the booking amount.):
+>> 
+=================== cli = 490, id = 902011, step = 1107 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 420, id = 902002, step = 1108 type = WR ===================
+<< Ctrl+C
+=================== cli = 462, id = 902007, step = 1109 type = WR ===================
+<< 902007
+<< 
+>> Locked.
+>> 
+=================== cli = 336, id = 902018, step = 1110 type = RD ===================
+<< Exit
+<< 
+=================== cli = 167, id = 902004, step = 1111 type = RD ===================
+<< Exit
+<< 
+=================== cli = 490, id = 902011, step = 1112 type = RD ===================
+<< Ctrl+C
+=================== cli = 459, id = 902005, step = 1113 type = RD ===================
+<< 902005
+<< 
+>> Food: 1 booked
+>> Concert: 2 booked
+>> Electronics: 3 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 329, id = 902005, step = 1114 type = RD ===================
+<< Exit
+<< 
+=================== cli = 178, id = 902019, step = 1115 type = WR ===================
+<< 902019
+<< 
+>> Food: 1 booked
+>> Concert: 2 booked
+>> Electronics: 2 booked
+>> 
+>> Please input your booking command. (Food, Concert, Electronics. Positive/negative value increases/decreases the booking amount.):
+>> 
+=================== cli = 114, id = 902007, step = 1116 type = WR ===================
+<< 0 0 0
+<< 
+>> Bookings for user 902007 are updated, the new booking state is:
+>> Food: 0 booked
+>> Concert: 3 booked
+>> Electronics: 2 booked
+>> 
+=================== cli = 283, id = 902014, step = 1117 type = WR ===================
+<< 0 0 0
+<< 
+>> Bookings for user 902014 are updated, the new booking state is:
+>> Food: 2 booked
+>> Concert: 1 booked
+>> Electronics: 1 booked
+>> 
+=================== cli = 237, id = 902004, step = 1118 type = RD ===================
+<< Ctrl+C
+=================== cli = 248, id = 902004, step = 1119 type = WR ===================
+<< 902004
+<< 
+>> Locked.
+>> 
+=================== cli = 239, id = 902008, step = 1120 type = WR ===================
+<< 902008
+<< 
+>> Food: 2 booked
+>> Concert: 1 booked
+>> Electronics: 2 booked
+>> 
+>> Please input your booking command. (Food, Concert, Electronics. Positive/negative value increases/decreases the booking amount.):
+>> 
+=================== cli = 284, id = 902015, step = 1121 type = WR ===================
+<< 0 0 0
+<< 
+>> Bookings for user 902015 are updated, the new booking state is:
+>> Food: 3 booked
+>> Concert: 2 booked
+>> Electronics: 3 booked
+>> 
+=================== cli = 414, id = 902005, step = 1122 type = RD ===================
+<< Ctrl+C
+=================== cli = 205, id = 902019, step = 1123 type = RD ===================
+<< 902019
+<< 
+>> Locked.
+>> 
+=================== cli = 102, id = 902003, step = 1124 type = WR ===================
+<< Ctrl+C
+=================== cli = 299, id = 902011, step = 1125 type = RD ===================
+<< 902011
+<< 
+>> Food: 2 booked
+>> Concert: 3 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 178, id = 902019, step = 1126 type = WR ===================
+<< 0 0 0
+<< 
+>> Bookings for user 902019 are updated, the new booking state is:
+>> Food: 1 booked
+>> Concert: 2 booked
+>> Electronics: 2 booked
+>> 
+=================== cli = 152, id = 902015, step = 1127 type = RD ===================
+<< 902015
+<< 
+>> Food: 3 booked
+>> Concert: 2 booked
+>> Electronics: 3 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 311, id = 902020, step = 1128 type = RD ===================
+<< 902020
+<< 
+>> Food: 3 booked
+>> Concert: 2 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 213, id = 902009, step = 1129 type = RD ===================
+<< 902009
+<< 
+>> Food: 1 booked
+>> Concert: 2 booked
+>> Electronics: 0 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 197, id = 902012, step = 1130 type = RD ===================
+<< 902012
+<< 
+>> Food: 3 booked
+>> Concert: 2 booked
+>> Electronics: 2 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 82, id = 902003, step = 1131 type = RD ===================
+<< 902003
+<< 
+>> Food: 2 booked
+>> Concert: 4 booked
+>> Electronics: 4 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 10, id = 902015, step = 1132 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 239, id = 902008, step = 1133 type = WR ===================
+<< Ctrl+C
+=================== cli = 310, id = 902006, step = 1134 type = RD ===================
+<< Ctrl+C
+=================== cli = 10, id = 902015, step = 1135 type = RD ===================
+<< 902015
+<< 
+>> Food: 3 booked
+>> Concert: 2 booked
+>> Electronics: 3 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 459, id = 902005, step = 1136 type = RD ===================
+<< Exit
+<< 
+=================== cli = 3, id = 902011, step = 1137 type = RD ===================
+<< Exit
+<< 
+=================== cli = 311, id = 902020, step = 1138 type = RD ===================
+<< Exit
+<< 
+=================== cli = 431, id = 902005, step = 1139 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 152, id = 902015, step = 1140 type = RD ===================
+<< Ctrl+C
+=================== cli = 431, id = 902005, step = 1141 type = WR ===================
+<< 902005
+<< 
+>> Food: 1 booked
+>> Concert: 2 booked
+>> Electronics: 3 booked
+>> 
+>> Please input your booking command. (Food, Concert, Electronics. Positive/negative value increases/decreases the booking amount.):
+>> 
+=================== cli = 10, id = 902015, step = 1142 type = RD ===================
+<< Exit
+<< 
+=================== cli = 343, id = 902003, step = 1143 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = 498, id = 902001, step = 1144 type = WR ===================
+<< 902001
+<< 
+>> Food: 3 booked
+>> Concert: 0 booked
+>> Electronics: 3 booked
+>> 
+>> Please input your booking command. (Food, Concert, Electronics. Positive/negative value increases/decreases the booking amount.):
+>> 
+=================== cli = 299, id = 902011, step = 1145 type = RD ===================
+<< Exit
+<< 
+=================== cli = 343, id = 902003, step = 1146 type = WR ===================
+<< 902003
+<< 
+>> Locked.
+>> 
+=================== cli = 304, id = 902003, step = 1147 type = RD ===================
+<< 902003
+<< 
+>> Food: 2 booked
+>> Concert: 4 booked
+>> Electronics: 4 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 100, id = 902002, step = 1148 type = RD ===================
+<< Exit
+<< 
+=================== cli = 465, id = 902018, step = 1149 type = WR ===================
+<< 902018
+<< 
+>> Food: 1 booked
+>> Concert: 4 booked
+>> Electronics: 4 booked
+>> 
+>> Please input your booking command. (Food, Concert, Electronics. Positive/negative value increases/decreases the booking amount.):
+>> 
+=================== cli = 439, id = 902008, step = 1150 type = RD ===================
+<< 902008
+<< 
+>> Food: 2 booked
+>> Concert: 1 booked
+>> Electronics: 2 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = 43, id = 902004, step = 1151 type = RD ===================
+<< Ctrl+C
+=================== cli = 446, id = 902005, step = 1152 type = WR ===================
+<< 902005
+<< 
+>> Locked.
+>> 
+=================== cli = 498, id = 902001, step = 1153 type = WR ===================
+<< 0 0 0
+<< 
+>> Bookings for user 902001 are updated, the new booking state is:
+>> Food: 3 booked
+>> Concert: 0 booked
+>> Electronics: 3 booked
+>> 
+=================== cli = 17, id = 902009, step = 1154 type = RD ===================
+<< Ctrl+C
+=================== cli = 197, id = 902012, step = 1155 type = RD ===================
+<< Exit
+<< 
+=================== cli = 366, id = 902004, step = 1156 type = WR ===================
+<< 902004
+<< 
+>> Food: 4 booked
+>> Concert: 1 booked
+>> Electronics: 1 booked
+>> 
+>> Please input your booking command. (Food, Concert, Electronics. Positive/negative value increases/decreases the booking amount.):
+>> 
+=================== cli = 82, id = 902003, step = 1157 type = RD ===================
+<< Exit
+<< 
+=================== cli = 424, id = 902020, step = 1158 type = RD ===================
+<< Ctrl+C
+=================== cli = 160, id = 902002, step = 1159 type = RD ===================
+<< Exit
+<< 
+=================== cli = 19, id = 902017, step = 1160 type = WR ===================
+<< 902017
+<< 
+>> Food: 4 booked
+>> Concert: 0 booked
+>> Electronics: 1 booked
+>> 
+>> Please input your booking command. (Food, Concert, Electronics. Positive/negative value increases/decreases the booking amount.):
+>> 
+=================== cli = 213, id = 902009, step = 1161 type = RD ===================
+<< Exit
+<< 
+=================== cli = 52, id = 902003, step = 1162 type = RD ===================
+<< Ctrl+C
+=================== cli = 304, id = 902003, step = 1163 type = RD ===================
+<< Exit
+<< 
+=================== cli = 464, id = 902015, step = 1164 type = WR ===================
+<< 902015
+<< 
+>> Food: 3 booked
+>> Concert: 2 booked
+>> Electronics: 3 booked
+>> 
+>> Please input your booking command. (Food, Concert, Electronics. Positive/negative value increases/decreases the booking amount.):
+>> 
+=================== cli = 19, id = 902017, step = 1165 type = WR ===================
+<< 0 0 0
+<< 
+>> Bookings for user 902017 are updated, the new booking state is:
+>> Food: 4 booked
+>> Concert: 0 booked
+>> Electronics: 1 booked
+>> 
+=================== cli = 464, id = 902015, step = 1166 type = WR ===================
+<< Ctrl+C
+=================== cli = 439, id = 902008, step = 1167 type = RD ===================
+<< Exit
+<< 
+=================== cli = 465, id = 902018, step = 1168 type = WR ===================
+<< 0 0 0
+<< 
+>> Bookings for user 902018 are updated, the new booking state is:
+>> Food: 1 booked
+>> Concert: 4 booked
+>> Electronics: 4 booked
+>> 
+=================== cli = 366, id = 902004, step = 1169 type = WR ===================
+<< 0 0 0
+<< 
+>> Bookings for user 902004 are updated, the new booking state is:
+>> Food: 4 booked
+>> Concert: 1 booked
+>> Electronics: 1 booked
+>> 
+=================== cli = 37, id = 902013, step = 1170 type = RD ===================
+<< Exit
+<< 
+=================== cli = 431, id = 902005, step = 1171 type = WR ===================
+<< 0 0 0
+<< 
+>> Bookings for user 902005 are updated, the new booking state is:
+>> Food: 1 booked
+>> Concert: 2 booked
+>> Electronics: 3 booked
+>> 

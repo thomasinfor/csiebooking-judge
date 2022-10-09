@@ -1,0 +1,39 @@
+=================== cli = R01, id = 902001, step = 0 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = R02, id = 902002, step = 1 type = RD ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = W01, id = 902001, step = 2 type = WR ===================
+>> Please enter your id (to check your booking state):
+>> 
+=================== cli = R01, id = 902001, step = 3 type = RD ===================
+<< 902001
+<< 
+>> Food: 3 booked
+>> Concert: 0 booked
+>> Electronics: 3 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = R02, id = 902002, step = 4 type = RD ===================
+<< 902002
+<< 
+>> Food: 2 booked
+>> Concert: 4 booked
+>> Electronics: 1 booked
+>> 
+>> (Type Exit to leave...)
+>> 
+=================== cli = R02, id = 902002, step = 5 type = RD ===================
+<< Exit
+<< 
+=================== cli = W01, id = 902001, step = 6 type = WR ===================
+<< 902001
+<< 
+>> Locked.
+>> 
+=================== cli = W01, id = 902001, step = 7 type = WR ===================
+<< Ctrl+C
+=================== cli = R01, id = 902001, step = 8 type = RD ===================
+<< Ctrl+C
