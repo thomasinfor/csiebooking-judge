@@ -97,9 +97,15 @@ class Client:
             return False
     def close(self):
         if self.con: self.con.close()
+    def quit(self):
+        self.con.get_socket().send(b'\xff\xf4\xff\xfd\x06')
     def __del__(self):
         self.close()
-    def step(self):
+    def step(self, p=1):
+        if self.next == self.START:
+            p = 1
+        if random.random() >= p:
+            self.next = self.QUIT
         return self.next()
     @STEP
     def START(self):
@@ -130,6 +136,12 @@ class Client:
         self.writeln('0 0 0')
         must_match(CMD_OK.format(id=self.id) + LIST_DATA, self.read(), 'CMD_ERROR')
         assert self.ended()
+        return True
+    @STEP
+    def QUIT(self):
+        print('<< Ctrl+C')
+        self.quit()
+        time.sleep(WT)
         return True
 def clean(ps):
     for i in ps:

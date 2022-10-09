@@ -4,7 +4,7 @@ import sys
 ps = []
 try:
     pr, pw, ps = args.rp, args.wp, []
-    if pw == None and pw == None:
+    if pr == None and pw == None:
         pr, pw, ps = start_server(5, 5)
     print(f'ports: r={pr}, w={pw}', file=sys.stderr)
 

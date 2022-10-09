@@ -4,12 +4,12 @@ import sys
 ps = []
 try:
     pr, pw, ps = args.rp, args.wp, []
-    if pw == None and pw == None:
-        pr, pw, ps = start_server()
+    if pr == None and pw == None:
+        pr, pw, ps = start_server(5, 5)
     print(f'ports: r={pr}, w={pw}', file=sys.stderr)
 
     clis = []
-    for i in range(50):
+    for i in range(500):
         if random.randint(0, 1):
             clis.append(Client(
                 id=random.randint(902001, 902020),
@@ -27,7 +27,7 @@ try:
 
     while clis:
         i = random.randint(0, len(clis)-1)
-        if clis[i].step():
+        if clis[i].step(p=0.7):
             clis.pop(i)
         if TIMESTAMP in []: input()
 finally:
