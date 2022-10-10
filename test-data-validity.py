@@ -25,6 +25,7 @@ try:
                 tpe='WR',
                 cliID=len(clis)
             ))
+            clis[-1].cmd_p = 0.5
 
     while clis:
         i = random.randint(0, len(clis)-1)

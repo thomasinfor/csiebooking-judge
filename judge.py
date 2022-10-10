@@ -18,6 +18,7 @@ WT = args.wt
 TIMESTAMP = 0
 random.seed(args.seed)
 
+INIT_RECORD = b'q\xc3\r\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00r\xc3\r\x00\x02\x00\x00\x00\x04\x00\x00\x00\x01\x00\x00\x00s\xc3\r\x00\x02\x00\x00\x00\x04\x00\x00\x00\x04\x00\x00\x00t\xc3\r\x00\x04\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00u\xc3\r\x00\x01\x00\x00\x00\x02\x00\x00\x00\x03\x00\x00\x00v\xc3\r\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00w\xc3\r\x00\x00\x00\x00\x00\x03\x00\x00\x00\x02\x00\x00\x00x\xc3\r\x00\x02\x00\x00\x00\x01\x00\x00\x00\x02\x00\x00\x00y\xc3\r\x00\x01\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00z\xc3\r\x00\x00\x00\x00\x00\x02\x00\x00\x00\x01\x00\x00\x00{\xc3\r\x00\x02\x00\x00\x00\x03\x00\x00\x00\x01\x00\x00\x00|\xc3\r\x00\x03\x00\x00\x00\x02\x00\x00\x00\x02\x00\x00\x00}\xc3\r\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00~\xc3\r\x00\x02\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x7f\xc3\r\x00\x03\x00\x00\x00\x02\x00\x00\x00\x03\x00\x00\x00\x80\xc3\r\x00\x01\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x81\xc3\r\x00\x04\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x82\xc3\r\x00\x01\x00\x00\x00\x04\x00\x00\x00\x04\x00\x00\x00\x83\xc3\r\x00\x01\x00\x00\x00\x02\x00\x00\x00\x02\x00\x00\x00\x84\xc3\r\x00\x03\x00\x00\x00\x02\x00\x00\x00\x01\x00\x00\x00'
 LIST_DATA = r"""Food: \d+ booked
 Concert: \d+ booked
 Electronics: \d+ booked
@@ -63,6 +64,12 @@ def start_server(n_r, n_w, default_port=3000):
         default_port = p+1
         time.sleep(0.2)
     return pr, pw, ps
+def init_record(rec=INIT_RECORD):
+    with open('./bookingRecord', 'wb+') as f:
+        f.write(rec)
+def gen_invalid_num():
+    a = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ-0123456789"
+    return ''.join([random.choice(list(a)) for _ in range(random.randint(1, 5))])
 def STEP(f):
     global TIMESTAMP
     def ret(*a, **b):
@@ -73,9 +80,10 @@ def STEP(f):
     return ret
 class Client:
     con = False
+    cmd_p = 1
     def __init__(self, id, port, tpe, cliID):
         if isinstance(port, list):
-            self.port = port[random.randint(0, len(port)-1)]
+            self.port = random.choice(port)
         else:
             self.port = port
         self.id = id
@@ -139,8 +147,17 @@ class Client:
         return True
     @STEP
     def CMD(self):
-        self.writeln('0 0 0')
-        must_match(CMD_OK.format(id=self.id) + LIST_DATA, self.read(), 'CMD_ERROR')
+        if self.cmd_p == 1:
+            self.writeln('0 0 0')
+        else:
+            if random.random() >= self.cmd_p:
+                self.writeln(f'{random.randint(-3, 3)} {random.randint(-3, 3)} {random.randint(-3, 3)}')
+            else:
+                x = f'{gen_invalid_num()} {gen_invalid_num()} {gen_invalid_num()}'
+                self.writeln(x)
+        rd = self.read()
+        if self.cmd_p == 1:
+            must_match(CMD_OK.format(id=self.id) + LIST_DATA, rd, 'CMD_ERROR')
         assert self.ended()
         return True
     @STEP

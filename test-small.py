@@ -7,6 +7,7 @@ try:
     if pr == None and pw == None:
         pr, pw, ps = start_server(1, 1)
     print(f'ports: r={pr}, w={pw}', file=sys.stderr)
+    init_record()
 
     clis = []
     for i in range(50):

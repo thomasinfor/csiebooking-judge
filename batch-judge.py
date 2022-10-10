@@ -37,7 +37,7 @@ def execute(cmd, **kwargs):
 
 def make():
     for u in users:
-        execute(f'make -C {u}', stderr=subprocess.DEVNULL)
+        execute(f'make', stderr=subprocess.DEVNULL, cwd=u)
 def test():
     for t in tasks:
         for u in users:
@@ -47,7 +47,6 @@ def summary():
     lst = [i[:-4] for i in lst if i.endswith('.out') and i.find('--') != -1]
     users = sorted(list(set([i.split('--')[0] for i in lst])))
     tasks = sorted(list(set([i.split('--')[1] for i in lst])))
-    print(users, tasks)
     for t in tasks:
         print(red(t))
         d = dict()
