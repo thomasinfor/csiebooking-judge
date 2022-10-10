@@ -54,11 +54,13 @@ def start_server(n_r, n_w, default_port=3000):
         p = find_empty_port(start=default_port)
         ps.append(subprocess.Popen(['./read_server',  str(p)], stderr=out_device, stdout=out_device))
         pr.append(p)
+        default_port = p+1
         time.sleep(0.2)
     for _ in range(n_w):
         p = find_empty_port(start=default_port)
         ps.append(subprocess.Popen(['./write_server',  str(p)], stderr=out_device, stdout=out_device))
         pw.append(p)
+        default_port = p+1
         time.sleep(0.2)
     return pr, pw, ps
 def STEP(f):
