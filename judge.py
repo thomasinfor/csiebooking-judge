@@ -9,8 +9,10 @@ parser.add_argument("-r", help="existing read server ports", default=None, dest=
 parser.add_argument("-w", help="existing write server ports", default=None, dest="wp", nargs="+")
 parser.add_argument("-s", help="random seed", default=7122, dest="seed", type=int)
 parser.add_argument("-d", help="server file directory", default='.', dest="dir")
+parser.add_argument("--debug", help="debug (noisy) mode", action='store_true', dest="debug")
 args = parser.parse_args()
 if args.dir: os.chdir(args.dir)
+out_device = None if args.debug else subprocess.DEVNULL
 
 WT = args.wt
 TIMESTAMP = 0
@@ -50,12 +52,12 @@ def start_server(n_r, n_w, default_port=3000):
     ps, pr, pw = [], [], []
     for _ in range(n_r):
         p = find_empty_port(start=default_port)
-        ps.append(subprocess.Popen(['./read_server',  str(p)], stderr=subprocess.DEVNULL, stdout=subprocess.DEVNULL))
+        ps.append(subprocess.Popen(['./read_server',  str(p)], stderr=out_device, stdout=out_device))
         pr.append(p)
         time.sleep(0.2)
     for _ in range(n_w):
         p = find_empty_port(start=default_port)
-        ps.append(subprocess.Popen(['./write_server',  str(p)], stderr=subprocess.DEVNULL, stdout=subprocess.DEVNULL))
+        ps.append(subprocess.Popen(['./write_server',  str(p)], stderr=out_device, stdout=out_device))
         pw.append(p)
         time.sleep(0.2)
     return pr, pw, ps
