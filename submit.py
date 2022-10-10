@@ -5,7 +5,7 @@ from argparse import ArgumentParser
 parser = ArgumentParser()
 parser.add_argument("--time", help="wait response time", default=0.1, type=float)
 parser.add_argument("-t", help="specify tasks", default=None, nargs="+")
-parser.add_argument("--name", help="username ([a-zA-Z0-9_]+), make it short", default=None)
+parser.add_argument("--name", help="username ([a-zA-Z0-9_]+), make it short", required=True)
 parser.add_argument("--mk", help="make", action='store_true')
 parser.add_argument("--run", help="run all tasks", action='store_true')
 parser.add_argument("--sum", help="summary", action='store_true')
@@ -20,10 +20,7 @@ exists = os.path.exists
 def rel_here(*p): return os.path.join(os.path.dirname(os.path.abspath(__file__)), *p)
 def rel_cwd(*p): return os.path.join(os.getcwd(), *p)
 
-if args.name == None:
-    user = input('Username: ([a-zA-Z0-9_]+) ')
-else:
-    user = args.name
+user = args.name
 assert re.fullmatch(r'[a-zA-Z0-9_]+', user)
 tasks = [i[5:-3] for i in os.listdir(rel_here()) if i.startswith('test-') and i.endswith('.py')]
 if args.t != None: tasks = [i for i in tasks if i in args.t]
