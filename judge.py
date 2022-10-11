@@ -19,9 +19,9 @@ TIMESTAMP = 0
 random.seed(args.seed)
 
 INIT_RECORD = b'q\xc3\r\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00r\xc3\r\x00\x02\x00\x00\x00\x04\x00\x00\x00\x01\x00\x00\x00s\xc3\r\x00\x02\x00\x00\x00\x04\x00\x00\x00\x04\x00\x00\x00t\xc3\r\x00\x04\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00u\xc3\r\x00\x01\x00\x00\x00\x02\x00\x00\x00\x03\x00\x00\x00v\xc3\r\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00w\xc3\r\x00\x00\x00\x00\x00\x03\x00\x00\x00\x02\x00\x00\x00x\xc3\r\x00\x02\x00\x00\x00\x01\x00\x00\x00\x02\x00\x00\x00y\xc3\r\x00\x01\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00z\xc3\r\x00\x00\x00\x00\x00\x02\x00\x00\x00\x01\x00\x00\x00{\xc3\r\x00\x02\x00\x00\x00\x03\x00\x00\x00\x01\x00\x00\x00|\xc3\r\x00\x03\x00\x00\x00\x02\x00\x00\x00\x02\x00\x00\x00}\xc3\r\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00~\xc3\r\x00\x02\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x7f\xc3\r\x00\x03\x00\x00\x00\x02\x00\x00\x00\x03\x00\x00\x00\x80\xc3\r\x00\x01\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x81\xc3\r\x00\x04\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x82\xc3\r\x00\x01\x00\x00\x00\x04\x00\x00\x00\x04\x00\x00\x00\x83\xc3\r\x00\x01\x00\x00\x00\x02\x00\x00\x00\x02\x00\x00\x00\x84\xc3\r\x00\x03\x00\x00\x00\x02\x00\x00\x00\x01\x00\x00\x00'
-LIST_DATA = r"""Food: \d+ booked
-Concert: \d+ booked
-Electronics: \d+ booked
+LIST_DATA = r"""Food: (\d+) booked
+Concert: (\d+) booked
+Electronics: (\d+) booked
 """
 PROMPT_CMD = r"""
 Please input your booking command\. \(Food, Concert, Electronics\. Positive/negative value increases/decreases the booking amount\.\):
@@ -36,10 +36,6 @@ def prt(x):
     return x
 def must(a, b, c='mismatch'):
     if a == b: return
-    print(f'{a} !=!=!=!= {b}')
-    raise Exception(c)
-def must_match(a, b, c='mismatch'):
-    if re.fullmatch(a, b): return
     print(f'{a} !=!=!=!= {b}')
     raise Exception(c)
 def start_server(n_r, n_w, default_port=3000):
@@ -121,6 +117,21 @@ class Client:
         if random.random() >= p:
             self.next = self.QUIT
         return self.next()
+    def fullmatch(self, *a, **b):
+        self.match = re.fullmatch(*a, **b)
+        return self.match
+    def valid(self, c):
+        if len(c.split(' ')) != 3: return False
+        try:
+            c = [int(i) for i in c.split(' ')]
+            cnt = 0
+            for i in range(3):
+                if c[i] + self.dat[i] < 0:
+                    return False
+                cnt += c[i] + self.dat[i]
+            return cnt <= 15
+        except:
+            return False
     @STEP
     def START(self):
         self.con = Telnet(host="localhost", port=self.port)
@@ -131,9 +142,10 @@ class Client:
     def ENTER_ID(self):
         self.writeln(self.id)
         s = self.read()
-        if re.fullmatch(LIST_DATA + PROMPT_EXIT, s):
+        if self.fullmatch(LIST_DATA + PROMPT_EXIT, s):
             self.next = self.EXIT
-        elif re.fullmatch(LIST_DATA + PROMPT_CMD, s):
+        elif self.fullmatch(LIST_DATA + PROMPT_CMD, s):
+            self.dat = [int(self.match[1]), int(self.match[2]), int(self.match[3])]
             self.next = self.CMD
         elif s == 'Locked.\n':
             assert self.ended()
@@ -150,14 +162,21 @@ class Client:
         if self.cmd_p == 1:
             self.writeln('0 0 0')
         else:
-            if random.random() >= self.cmd_p:
-                self.writeln(f'{random.randint(-3, 3)} {random.randint(-3, 3)} {random.randint(-3, 3)}')
+            if random.random() <= self.cmd_p:
+                while True:
+                    x = f'{random.randint(-3, 3)} {random.randint(-3, 3)} {random.randint(-3, 3)}'
+                    if not self.valid(x): continue
+                    self.writeln(x)
+                    break
             else:
-                x = f'{gen_invalid_num()} {gen_invalid_num()} {gen_invalid_num()}'
-                self.writeln(x)
+                while True:
+                    x = f'{gen_invalid_num()} {gen_invalid_num()} {gen_invalid_num()}'
+                    if self.valid(x): continue
+                    self.writeln(x)
+                    break
         rd = self.read()
         if self.cmd_p == 1:
-            must_match(CMD_OK.format(id=self.id) + LIST_DATA, rd, 'CMD_ERROR')
+            assert self.fullmatch(CMD_OK.format(id=self.id) + LIST_DATA, rd), 'CMD_ERROR'
         assert self.ended()
         return True
     @STEP
