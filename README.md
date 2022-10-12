@@ -1,7 +1,7 @@
 # non-official judge for csiebooking
 
 大家如果寫完SP的話可以測測看非官方的judge：
-1. ssh 進 linux1.csie.org or linux14.csie.org
+1. ssh 進 linux1.csie.org ~ linux15.csie.org ***現在1\~15都可以用了！！！***
 2. cd 到你 Makefile 所在的資料夾
 3. 執行 `/tmp2/b10902028/SP-judge/submit.py --name [NAME] -a --teacher tw`
 其中 `[NAME]` 可以是任意大小寫英文+數字+底線組成的字串，是用來辨別你的身分的
