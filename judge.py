@@ -63,9 +63,6 @@ def start_server(n_r, n_w, default_port=3000):
 def init_record(rec=INIT_RECORD):
     with open('./bookingRecord', 'wb+') as f:
         f.write(rec)
-def gen_invalid_num():
-    a = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ-0123456789"
-    return ''.join([random.choice(list(a)) for _ in range(random.randint(1, 5))])
 def STEP(f):
     global TIMESTAMP
     def ret(*a, **b):
@@ -132,6 +129,20 @@ class Client:
             return cnt <= 15
         except:
             return False
+    def gen_invalid_num(self):
+        t = random.randint(0, 2)
+        if t == 0:
+            a = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ-0123456789"
+            return ''.join([random.choice(list(a)) for _ in range(random.randint(1, 5))])
+        elif t == 1:
+            a, b = random.randint(-3, 3), random.randint(-3, 3)
+            c = [a, b, -1 - a - b]
+            return ' '.join([str(c[i] - self.dat[i]) for i in range(3)])
+        elif t == 2:
+            a, b = random.randint(0, 5), random.randint(0, 5)
+            c = [a, b, 16 - a - b]
+            return ' '.join([str(c[i] - self.dat[i]) for i in range(3)])
+
     @STEP
     def START(self):
         self.con = Telnet(host="localhost", port=self.port)
@@ -170,7 +181,7 @@ class Client:
                     break
             else:
                 while True:
-                    x = f'{gen_invalid_num()} {gen_invalid_num()} {gen_invalid_num()}'
+                    x = self.gen_invalid_num()
                     if self.valid(x): continue
                     self.writeln(x)
                     break
@@ -184,6 +195,7 @@ class Client:
         print('<< Ctrl+C')
         self.quit()
         time.sleep(WT)
+        # assert self.ended()
         return True
 def clean(ps):
     for i in ps:
